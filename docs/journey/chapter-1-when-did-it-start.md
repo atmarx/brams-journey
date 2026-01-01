@@ -105,6 +105,8 @@ The tasks Bram used to handle reflexively—the physical problem-solving that ha
 
 The lunch breaks got longer. Bram would lie flat in his truck bed, a rolled-up jacket under his knees, staring at the sky through breaks in the clouds, trying to decompress his spine enough to make it through the afternoon. The cold metal against his back was simultaneously soothing and depressing.
 
+![Contractor lying in truck bed during lunch break, staring at the sky](../images/truck-bed-rest.png)
+
 Some days, standing back up took two attempts. The first try would send shooting pain through his lower back, forcing him down. The second try, carefully orchestrated with hand placement and breath control and sheer determination, would get him vertical.
 
 *Just pushed too hard this week. Next week will be better.*

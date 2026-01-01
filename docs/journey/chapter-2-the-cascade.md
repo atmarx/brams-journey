@@ -128,6 +128,8 @@ Bram stared out the window at the parking lot, watching people walk normally, mo
 
 ## The Research Rabbit Hole
 
+![Late night medical research on a laptop in a dark room](../images/late-night-medical-research.png)
+
 That night, Bram fell down the internet rabbit hole.
 
 Emma helped, initially—showing him how to navigate Google Scholar, how to find actual research instead of just random websites. But after an hour, she went home, leaving Bram alone with his laptop and a growing sense of both horror and recognition.

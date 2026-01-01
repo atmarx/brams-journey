@@ -29,6 +29,8 @@ He held the moisture meter against the ceiling. It beeped aggressively.
 
 He pulled out the thermal camera, which showed the ceiling in colored heat signatures. A large blue patch—indicating cold, wet material—spread across an area three times larger than the visible stain.
 
+![Thermal imaging showing moisture patterns in ceiling](../images/thermal-imaging-ceiling-moisture.png)
+
 "See this? The visible stain is maybe two feet across. The actual water damage is six feet. And I'd bet good money there's black mold growing in that attic space, probably in your HVAC ducts too, circulating spores through your whole house every time the heating or cooling kicks on."
 
 Bram felt sick. "I had no idea."
@@ -127,6 +129,8 @@ Emma came over to help him start packing essentials, preparing for the remediati
 The ERMI report arrived via email at 6:47 PM on a Wednesday. Bram was sitting at his kitchen table, eating microwaved leftovers, when his phone chimed.
 
 He opened the PDF with shaking hands.
+
+![ERMI mold test report showing elevated scores](../images/ermi-mold-test-report.png)
 
 **Overall ERMI Score: 12.7**
 

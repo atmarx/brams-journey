@@ -31,6 +31,8 @@ Bram lasted three days before checking the portal every morning.
 
 The first results appeared on day five:
 
+![Lab results showing elevated inflammation markers](../images/lab-results-inflammation.png)
+
 | Test | Result | Normal Range |
 |------|--------|--------------|
 | C-Reactive Protein (CRP) | 15.2 mg/L | < 3.0 mg/L |
@@ -137,6 +139,8 @@ Bram felt something loosen in his chest—not quite hope, but maybe possibility.
 ## The Diagnosis
 
 Dr. Chen pulled out a fresh piece of paper and drew a simple diagram:
+
+![Timeline showing the progression of joint inflammation](../images/joint-inflammation-timeline.png)
 
 ```
 MOLD EXPOSURE (home environment)

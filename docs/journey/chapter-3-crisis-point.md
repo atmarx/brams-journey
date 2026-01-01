@@ -53,6 +53,8 @@ They sat with that for a moment. Then Marcus asked the practical question: "So w
 
 ## Dr. Sarah Chen
 
+![Doctor and patient in consultation, having a meaningful conversation](../images/doctor-patient-consultation.png)
+
 Emma found Dr. Sarah Chen through a support group for people with environmental illness. Dr. Chen was two hours away, didn't take insurance, and had a two-week wait for new patients—but she actually specialized in mold illness, one of only a handful of doctors in the state who did.
 
 Bram made the appointment, paid the $400 new patient fee out of pocket, and drove two hours each way for what turned out to be the first medical interaction in his adult life where he felt actually *heard*.

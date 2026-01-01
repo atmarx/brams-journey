@@ -63,6 +63,8 @@ The logic was sound. He tried it.
 - 2ml twice daily: morning (in coffee) and evening (under tongue)
 - Consistent daily use
 
+![Making reishi tincture - dual extraction process](../images/making-reishi-tincture.png)
+
 **Why dual extraction matters:** Water extracts polysaccharides (immune compounds). Alcohol extracts triterpenes (anti-inflammatory compounds). You need both for full benefit.
 
 **Bram's experience:**

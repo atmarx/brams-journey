@@ -12,6 +12,8 @@ Nine months after moving out of the toxic house, Bram sat in Dr. Chen's office f
 
 Dr. Chen pulled up his chart, showing the progression over nine months:
 
+![Graph showing inflammation markers trending downward over time](../images/inflammation-markers-trend.png)
+
 ### Nine-Month Laboratory Results
 
 | Marker | Month 0 | Month 9 | Normal Range |
