@@ -15,6 +15,8 @@ By noon, he knew he'd been wrong.
 
 ## The Ladder Incident
 
+![A ladder from an ominous low angle perspective](../images/ladder-ominous-perspective.png)
+
 It was a Tuesday in late April, unseasonably warm, the kind of weather that made Bram remember why he loved this work. A client's living room crown molding job—simple work, meditative almost, the kind of task he'd done ten thousand times.
 
 He was on the ladder, arms overhead, fitting a length of molding into place. Everything was fine until it wasn't.

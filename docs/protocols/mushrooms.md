@@ -33,6 +33,8 @@ The logic was sound. He tried it.
 
 ## The Key Species
 
+![Reishi mushrooms growing in a forest setting](../images/reishi-mushrooms-forest.png)
+
 ### Reishi (*[Ganoderma lucidum](https://en.wikipedia.org/wiki/Ganoderma_lucidum)*) — "The Mushroom of Immortality"
 
 **Traditional use:** Over 2,000 years in Chinese medicine for longevity, immune support, and spiritual potency[^reishi-history]

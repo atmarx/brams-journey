@@ -60,6 +60,8 @@ That night, Bram slept on clean sheets in a room with no musty smell, no hidden 
 
 And in the morning, something was different.
 
+![Person at window in morning light, contemplating](../images/window-contemplation-morning.png)
+
 His hands were less swollen. Not dramatically—this wasn't a miracle cure—but noticeably. He could make a fist. The morning stiffness lasted 20 minutes instead of 45.
 
 "Emma," he called from the bedroom. "Come here."

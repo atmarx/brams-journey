@@ -6,6 +6,8 @@
 
 ---
 
+![Comparison of inflammatory vs anti-inflammatory foods](../images/inflammatory-vs-anti-inflammatory-foods.png)
+
 ## Why Diet Matters
 
 Bram's pre-recovery diet was a disaster:
@@ -159,8 +161,10 @@ Once inflammatory foods are out, add targeted healing foods.
     4. Grill skin-side down for 6 minutes
     5. Flip for 2–3 minutes
     6. Squeeze fresh lemon over top
-    
+
     Simple. Delicious. Healing.
+
+![Grilled salmon with vegetables - an anti-inflammatory meal](../images/grilled-salmon-anti-inflammatory-meal.png)
 
 ---
 

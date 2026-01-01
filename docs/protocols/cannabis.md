@@ -32,6 +32,8 @@ What changed his mind wasn't arguments. It was desperation, data, and direct exp
 
 The human body has a built-in system designed to interact with cannabinoids:
 
+![Diagram of the endocannabinoid system in the human body](../images/endocannabinoid-system-diagram.png)
+
 **The [Endocannabinoid System](https://en.wikipedia.org/wiki/Endocannabinoid_system) (ECS):**[^ecs-discovery]
 
 - Network of receptors throughout the body (CB1, CB2)(1)
