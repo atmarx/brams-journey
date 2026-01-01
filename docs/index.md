@@ -6,6 +6,8 @@
 
 ## About This Book
 
+I accidentally wrote a book.  I had pinched a disc in my lower back, and after a particularly rough night, was worried enough to go to the ER to make sure I wasn't imminently imploding.  They sent me home with the worst of prognoses: if it doesn't get better in a week, go see an ortho—*better make an appointment quick, they book 12 weeks out*.  I had been bouncing other ideas and questions off of Claude.ai, so I thought I'd ask it about the specific issues I was experiencing.  I didn't want it building a medical history of *me*, so I told it I was writing a story about a guy with some back pain.  If you've used Claude before, you know it loves to write, and proceeded to help me construct an entire story arc around this character's back pain.  We wove many other healthy ideas together in an iterative effort, and the result (after months of back and forth) is what you see here.
+
 This is Bram's story—a 45-year-old general contractor who went from barely able to climb a ladder to feeling better than he did at 35. It's also a practical guide to the protocols that made his recovery possible.
 
 What you'll find here isn't quick fixes or miracle cures. It's a systematic, evidence-based approach to addressing chronic inflammation(1) through:

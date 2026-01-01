@@ -186,7 +186,7 @@ Always inform your healthcare providers about any supplements you're taking, inc
 
 - Muscle burn during exercise (4-6/10 intensity)
 - Stretching sensation that feels productive (4-6/10)
-- Mild muscle soreness 24-48 hours after exercise(1)
+- Mild muscle soreness 24-48 hours after exercise (1/10)
 - Sensation that improves with breathing and relaxation
 { .annotate }
 
