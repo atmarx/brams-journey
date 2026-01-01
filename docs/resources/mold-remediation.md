@@ -7,6 +7,8 @@ When to call professionals, what to look for, and verification steps to ensure y
 
 ---
 
+![Mold - Photo by <a href="https://unsplash.com/@bfigas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bruno Figueiredo</a> on <a href="https://unsplash.com/photos/gray-coral-X4P6B5dKJ1Y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](../images/bruno-figueiredo-X4P6B5dKJ1Y-unsplash.jpg){ align=right width=35% }
+
 ## When to Call Professionals
 
 ### Always Hire Certified Professionals For:

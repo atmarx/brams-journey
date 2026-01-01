@@ -1,8 +1,5 @@
 # 90/90 Hip Stretch
 
-![90/90 Hip Stretch position](../images/exercises/90-90-hip-stretch.jpg)
-<!-- TODO: Image needed - bird's eye view showing Z-shape leg configuration -->
-
 **Purpose:** Open both hip rotations simultaneously, address sitting-induced hip tightness
 
 **Duration:** 90 seconds each side, then 90 seconds alternating (4 minutes total)
@@ -10,6 +7,8 @@
 ---
 
 ## The Biomechanics
+
+![90/90 Hip Stretch position](../images/exercises/90-90-hip-stretch.png){ align=right width=50% }
 
 The [hip joint](https://en.wikipedia.org/wiki/Hip) is a [ball-and-socket](https://en.wikipedia.org/wiki/Ball-and-socket_joint) designed for movement in all directions. Modern life destroys this:
 

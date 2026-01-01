@@ -5,8 +5,6 @@
 
 ---
 
-![Contractor's hands showing signs of inflammation and swelling](../images/contractor-hands-inflammation.png)
-
 Bram couldn't pinpoint the exact moment things changed. That's the insidious thing about slow decline—you don't realize you're drowning until water's already over your head.
 
 Maybe it started that Tuesday in March when he needed both hands to pull himself out of his truck, gripping the door frame like a lifeline. Or the Saturday morning when tying his work boots took five minutes instead of thirty seconds, his fingers stiff and swollen like sausages that wouldn't bend the way they were supposed to. Or maybe it was months earlier, when the first whisper of morning stiffness began, so subtle he wrote it off as sleeping wrong.
@@ -16,6 +14,8 @@ At 45, Bram had always been *the guy*—the one who could outwork men half his a
 But over three months, that man disappeared.
 
 ---
+
+![Inflammation and swelling are warning signs of a larger issue](../images/contractor-hands-inflammation.png){ width=50% align=right }
 
 ## Month One: The Dismissal Phase
 

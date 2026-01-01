@@ -1,8 +1,5 @@
 # Doorway Pec Stretch — Three Angles
 
-![Doorway pec stretch at three heights](../images/exercises/doorway-pec-stretch.jpg)
-<!-- TODO: Image needed - three side-by-side showing low, mid, high arm positions -->
-
 **Purpose:** Release tight chest muscles from forward work posture, allow shoulder blades to retract properly
 
 **Duration:** 60 seconds at each of three positions, each side (6 minutes total)
@@ -10,6 +7,8 @@
 ---
 
 ## The Biomechanics
+
+![Doorway pec stretch at three heights](../images/exercises/doorway-pec-stretch.png){ align=right width=35% }
 
 The [pectoralis major](https://en.wikipedia.org/wiki/Pectoralis_major) (chest) attaches from your [sternum](https://en.wikipedia.org/wiki/Sternum) and [clavicle](https://en.wikipedia.org/wiki/Clavicle) to your upper arm. When tight, it:
 

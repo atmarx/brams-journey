@@ -1,8 +1,5 @@
 # Child's Pose with Lat Stretch
 
-![Child's Pose with lateral stretch](../images/exercises/childs-pose.jpg)
-<!-- TODO: Image needed - overhead view showing arms extended diagonally -->
-
 **Purpose:** Decompress lower back, stretch lats and thoracic spine, create space between vertebrae
 
 **Duration:** 2 minutes each side (4 minutes total)
@@ -10,6 +7,8 @@
 ---
 
 ## The Biomechanics
+
+![Child's Pose with lateral stretch](../images/exercises/childs-pose.png){ align=right width=50% }
 
 The [latissimus dorsi](https://en.wikipedia.org/wiki/Latissimus_dorsi_muscle) (lats) connect from your arms to your lower back. When tight, they:
 

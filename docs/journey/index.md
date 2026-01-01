@@ -1,11 +1,10 @@
 # Bram's Journey
 
-![Contractor at work](../images/journey/bram-working.jpg)
-<!-- TODO: Image of contractor working, weathered hands, job site background -->
-
 **From breakdown to recovery—a contractor's complete transformation.**
 
 ---
+
+![Contractor at work](../images/bram-working.png){ width=30% align=right }
 
 ## The Story
 

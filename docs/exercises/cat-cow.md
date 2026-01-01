@@ -1,8 +1,5 @@
 # Cat-Cow (Spinal Articulation)
 
-![Cat-Cow stretch demonstration](../images/exercises/cat-cow.jpg)
-<!-- TODO: Image needed - side view showing both cat and cow positions -->
-
 **Purpose:** Gently mobilize each spinal segment, lubricate spinal joints, teach body awareness
 
 **Duration:** 10-12 slow repetitions (5-6 complete cycles), 60-90 seconds total
@@ -10,6 +7,8 @@
 ---
 
 ## The Biomechanics
+
+![Cat-Cow stretch demonstration](../images/exercises/cat-cow.png){ align=right width=40% }
 
 Your spine has 24 [vertebrae](https://en.wikipedia.org/wiki/Vertebra) that should each move independently. Years of bracing, tension, and protective posturing create "stiff segments"—areas where vertebrae move together as a block instead of articulating individually.
 

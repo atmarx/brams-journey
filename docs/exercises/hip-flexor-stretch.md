@@ -1,8 +1,5 @@
 # Standing Hip Flexor Stretch at Wall
 
-![Hip flexor stretch at wall](../images/exercises/hip-flexor-stretch.jpg)
-<!-- TODO: Image needed - side view showing proper pelvic tuck -->
-
 **Purpose:** Lengthen chronically shortened hip flexors from sitting and forward work
 
 **Duration:** 90 seconds each side (3 minutes total)
@@ -10,6 +7,8 @@
 ---
 
 ## The Biomechanics
+
+![Hip flexor stretch at wall](../images/exercises/hip-flexor-lunge.png){ align=right width=50% }
 
 The hip flexors ([psoas](https://en.wikipedia.org/wiki/Psoas_major_muscle), [iliacus](https://en.wikipedia.org/wiki/Iliacus_muscle), [rectus femoris](https://en.wikipedia.org/wiki/Rectus_femoris_muscle), [TFL](https://en.wikipedia.org/wiki/Tensor_fasciae_latae_muscle)) are the muscles that pull your knee toward your chest. When you sit, they're in a shortened position. Hours of sitting daily, year after year, causes them to adaptively shorten.
 

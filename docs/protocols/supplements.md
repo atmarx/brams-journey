@@ -291,6 +291,52 @@ Beyond the core protocol:
 - **MSM:** 1,000–3,000mg daily—sulfur for connective tissue[^msm]
 - **Boswellia:** 300–500mg daily—anti-inflammatory herb specific to joints[^boswellia]
 - **Devil's Claw:** An alternative or complement to boswellia for joint pain—see [Richard Whelan's Devil's Claw monograph](https://www.rjwhelan.co.nz/herbs%20A-Z/devilsclaw.html)
+- **Bamboo Silica:** 50–100mg daily—the overlooked mineral for connective tissue[^silica]
+
+[^silica]: Jugdaohsingh R. "Silicon and bone health." [*J Nutr Health Aging*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2658806/) 2007;11(2):99-110. Silica is essential for collagen synthesis, bone mineralization, and connective tissue integrity. Modern agricultural practices and depleted soils have reduced dietary silica intake significantly.
+
+!!! tip "The Missing Mineral: Silica"
+    Silica ([silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide)) doesn't get the attention of calcium or magnesium, but it's critical for:
+
+    - **Collagen formation:** Silica is required for the enzyme that cross-links collagen fibers
+    - **Joint cartilage:** Helps maintain cartilage structure and flexibility
+    - **Bone density:** Works synergistically with calcium
+    - **Skin, hair, and nails:** Structural integrity
+
+    **Why we're deficient:** Modern agriculture has disrupted the soil microbiome—particularly the mycorrhizal fungi that traditionally made silica bioavailable to plants. Processed foods strip what little remains.
+
+    **Best sources:**
+
+    - **Bamboo extract:** One of the richest plant sources (up to 70% silica by weight)
+    - Horsetail herb (lower concentration)
+    - Nettles
+    - Cucumbers, bell peppers (food sources)
+
+??? success "Emma's Ginger-Bamboo Iced Tea"
+    Emma developed this recipe when Bram complained that bamboo supplements were "just another pill." Now it's a summer staple.
+
+    **Ingredients:**
+
+    - 4 cups water
+    - 2-inch piece fresh ginger, sliced thin
+    - 1 tbsp bamboo leaf tea (or 2 bamboo tea bags)
+    - 1 tbsp raw honey (optional, after cooling)
+    - Juice of 1 lemon
+    - Fresh mint leaves
+
+    **Instructions:**
+
+    1. Bring water to a boil with ginger slices
+    2. Reduce heat and simmer 10 minutes
+    3. Remove from heat, add bamboo tea, steep 5-7 minutes
+    4. Strain into a pitcher
+    5. Cool to room temperature, then add honey and lemon
+    6. Refrigerate until cold
+    7. Serve over ice with fresh mint
+
+    **Makes:** 4 servings | **Silica bonus:** The ginger adds its own anti-inflammatory benefits while making the bamboo palatable
+
+    *"Tastes like summer. Works like medicine."* — Bram
 
 [^collagen]: Clark KL, et al. "24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain." [*Curr Med Res Opin*](https://pubmed.ncbi.nlm.nih.gov/18416885/) 2008;24(5):1485-1496.
 
@@ -302,12 +348,9 @@ Beyond the core protocol:
 
 ### For Gut Issues
 
-Mold illness often damages gut lining:(1)
-{ .annotate }
+Mold illness often damages gut lining[^leakygut]:
 
-1.  This is sometimes called "leaky gut" or increased intestinal permeability. Mycotoxins can damage the tight junctions between intestinal cells.[^leakygut]
-
-[^leakygut]: Gao Y, et al. "Mycotoxins and intestinal barrier function." [*Int J Mol Sci*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7504362/) 2020;21(17):6298.
+[^leakygut]: This is sometimes called "leaky gut" or increased intestinal permeability. Mycotoxins can damage the tight junctions between intestinal cells. See: Gao Y, et al. "Mycotoxins and intestinal barrier function." [*Int J Mol Sci*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7504362/) 2020;21(17):6298.
 
 - **L-Glutamine:** 5g daily—fuel for gut lining repair[^glutamine]
 - **Probiotics:** 50 billion CFU multi-strain—restore beneficial bacteria
