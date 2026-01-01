@@ -35,7 +35,10 @@ theme:
     code: Roboto Mono
 
 plugins:
-  - search
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - minify:
+      minify_html: true
   - glightbox:
        touchNavigation: true
        loop: false
