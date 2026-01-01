@@ -11,18 +11,20 @@
 
 Bram's recovery wasn't based on finding one magic solution. It required addressing multiple interconnected systems simultaneously:
 
-```
-Environment (remove the poison)
-       +
-Diet (stop fueling inflammation)
-       +
-Targeted Supplements (fill gaps, support healing)
-       +
-Movement (rebuild function)
-       +
-Sleep & Stress Management (allow recovery)
-       =
-Complete Recovery
+``` mermaid
+graph TD
+    A[Environment<br><sub>Remove the poison</sub>] -->|PLUS| B[Diet<br><sub>Stop fueling inflammation</sub>]
+    B -->|PLUS| C[Targeted Supplements<br><sub>Fill gaps, support healing</sub>]
+    C -->|PLUS| D[Movement<br><sub>Rebuild function</sub>]
+    D -->|PLUS| E[Sleep & Stress Management<br><sub>Allow recovery</sub>]
+    E ====>|EQUALS| F((Complete<br>Recovery))
+
+    style F fill:#4CAF50,stroke:#333,stroke-width:2px,color:white
+    style A fill:#f9f9f9,stroke:#333,stroke-width:1px
+    style B fill:#f9f9f9,stroke:#333,stroke-width:1px
+    style C fill:#f9f9f9,stroke:#333,stroke-width:1px
+    style D fill:#f9f9f9,stroke:#333,stroke-width:1px
+    style E fill:#f9f9f9,stroke:#333,stroke-width:1px
 ```
 
 **Each piece was necessary. None was sufficient alone.**
@@ -77,7 +79,7 @@ For many with chronic inflammation and pain, medical cannabis offers relief that
 
 ---
 
-### [:fontawesome-solid-mushroom: Medicinal Mushrooms](mushrooms.md)
+### [:material-mushroom: Medicinal Mushrooms](mushrooms.md)
 
 The irony of Bram's journey: poisoned by one fungus, healed by others. Medicinal mushrooms have thousands of years of traditional use and growing research support.
 

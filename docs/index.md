@@ -1,19 +1,18 @@
-# From Inflammation to Healing
+# Recovering From Inflammation
 
-**A Contractor's Journey Through Mold Illness, Joint Pain, and Complete Recovery**
+**A Contractor's Journey Through Mold Illness and Joint Pain to Complete Recovery**
 
 ---
 
 ## About This Book
 
-I accidentally wrote a book.  I had pinched a disc in my lower back, and after a particularly rough night, was worried enough to go to the ER to make sure I wasn't imminently imploding.  They sent me home with the worst of prognoses: if it doesn't get better in a week, go see an ortho—*better make an appointment quick, they book 12 weeks out*.  I had been bouncing other ideas and questions off of Claude.ai, so I thought I'd ask it about the specific issues I was experiencing.  I didn't want it building a medical history of *me*, so I told it I was writing a story about a guy with some back pain.  If you've used Claude before, you know it loves to write, and proceeded to help me construct an entire story arc around this character's back pain.  We wove many other healthy ideas together in an iterative effort, and the result (after months of back and forth) is what you see here.
+
+![Bram](./images/bram.png){ align=right width="400" }
 
 This is Bram's story—a 45-year-old general contractor who went from barely able to climb a ladder to feeling better than he did at 35. It's also a practical guide to the protocols that made his recovery possible.
 
-What you'll find here isn't quick fixes or miracle cures. It's a systematic, evidence-based approach to addressing chronic inflammation(1) through:
-{ .annotate }
+What you'll find here isn't quick fixes or miracle cures. It's a systematic, evidence-based approach to addressing chronic inflammation[^inflammation] through:
 
-1.  **Chronic inflammation** is a prolonged inflammatory response that can last months or years, damaging healthy tissue. Unlike acute inflammation (which heals injuries), chronic inflammation is associated with conditions like arthritis, heart disease, and autoimmune disorders.[^inflammation]
 
 - **Environmental remediation** — Identifying and eliminating toxic mold exposure
 - **Anti-inflammatory nutrition** — Food as medicine, not deprivation
@@ -21,7 +20,7 @@ What you'll find here isn't quick fixes or miracle cures. It's a systematic, evi
 - **Natural therapeutics** — Medicinal mushrooms and cannabis as legitimate medicine
 - **Sustainable practices** — Protocols that fit into a working life
 
-[^inflammation]: Harvard Health Publishing. ["Understanding acute and chronic inflammation."](https://www.health.harvard.edu/staying-healthy/understanding-inflammation) Harvard Medical School.
+[^inflammation]: **Chronic inflammation** is a prolonged inflammatory response that can last months or years, damaging healthy tissue. Unlike acute inflammation (which heals injuries), chronic inflammation is associated with conditions like arthritis, heart disease, and autoimmune disorders.  See: ["Understanding acute and chronic inflammation."](https://www.health.harvard.edu/staying-healthy/understanding-inflammation) Harvard Medical School.
 
 ---
 
@@ -143,12 +142,20 @@ You don't need to be a contractor to benefit. Bram's story is specific, but the 
 
 ---
 
-## A Note on This Resource
+## A Few Notes on This Resource
 
-This book is released under [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/). Share it freely. Adapt it for your needs. Help others heal.
+!!! info "Impetus"
+
+    I accidentally wrote this "book".  I had pinched a disc in my lower back, and after a particularly rough night, was worried enough to go to the ER to make sure I wasn't imminently imploding.  They sent me home with the most boring of prognoses: rest, painkillers, if it doesn't get better in a week, go see an ortho—*better make an appointment quick, they book 12 weeks out*.
+    
+    I had been bouncing other ideas and questions off of Claude.ai, so I thought I'd ask it about the specific issues I was experiencing.  I didn't want it building a medical history of *me*, so I told it I was writing a story about a guy with some back pain.  If you've used Claude before, you know it loves to write, and proceeded to eagerly construct an entire story arc around this character's back pain.  We wove many other healthy ideas together in an iterative effort, and the result (after weeks of back and forth) is what you see here.
+
+!!! abstract "License"
+    
+    This book is released under [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/). Share it freely. Adapt it for your needs. Help others heal.
 
 !!! warning "Important"
-    This is an educational resource, not medical advice. Please read our [complete disclaimers](disclaimers.md) before implementing any protocols. Work with qualified healthcare providers, especially for serious conditions.
+    This is an educational resource, not medical advice. Please read the [complete disclaimers](disclaimers.md) before implementing any protocols. Work with qualified healthcare providers, especially for serious conditions.
 
 ---
 

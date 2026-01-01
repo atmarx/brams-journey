@@ -53,13 +53,13 @@ They sat with that for a moment. Then Marcus asked the practical question: "So w
 
 ## Dr. Sarah Chen
 
-![Doctor and patient in consultation, having a meaningful conversation](../images/doctor-patient-consultation.png)
-
 Emma found Dr. Sarah Chen through a support group for people with environmental illness. Dr. Chen was two hours away, didn't take insurance, and had a two-week wait for new patients—but she actually specialized in mold illness, one of only a handful of doctors in the state who did.
 
 Bram made the appointment, paid the $400 new patient fee out of pocket, and drove two hours each way for what turned out to be the first medical interaction in his adult life where he felt actually *heard*.
 
 Dr. Chen was in her fifties, with the kind of calm competence that comes from having seen it all before. She took a full hour for the intake appointment—unheard of in Bram's limited experience with doctors.
+
+![Doctor and patient in consultation, having a meaningful conversation](../images/doctor-patient-consultation.png){ align=right width=50% }
 
 "Tell me everything," she said, making eye contact, actually listening.
 
@@ -75,7 +75,10 @@ Dr. Chen nodded throughout, taking notes on an actual paper pad, not a tablet.
 
 She leaned forward, hands folded on her desk.
 
-"This isn't a quick fix. If mold is the trigger—and I think it probably is based on your presentation and history—removing the exposure is step one. But your body has been in inflammatory overdrive for months, possibly longer. Your immune system is stuck in a loop, attacking your own tissues. Turning that off takes time. Healing the damage that's already occurred takes even longer. Are you ready for that?"
+![Moldy house](../images/mold-house.jpg){ align=left width=50% }
+
+
+"This isn't a quick fix. If mold[^image-moldyhouse] is the trigger—and I think it probably is based on your presentation and history—removing the exposure is step one. But your body has been in inflammatory overdrive for months, possibly longer. Your immune system is stuck in a loop, attacking your own tissues. Turning that off takes time. Healing the damage that's already occurred takes even longer. Are you ready for that?"
 
 "I don't have a choice."
 
@@ -93,3 +96,5 @@ Bram thought about the ladder incident. About lying in his truck bed during lunc
 ---
 
 *Continue to [Chapter 4: The Testing](chapter-4-the-testing.md) or return to [Journey Home](index.md)*
+
+[^image-moldyhouse]: Photo by <a href="https://unsplash.com/@schaffler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">michael schaffler</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-piece-of-metal-with-moss-growing-on-it-_6Ae1LgFFFA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

@@ -198,21 +198,14 @@ Work had become a strategic game of energy management. Which tasks were absolute
 
 He started keeping a mental tally:
 
-**Things I can still do:**
-
-- Drive the truck (barely)
-- Supervise from ground level
-- Make phone calls and handle paperwork
-- Light hand tools for short periods
-
-**Things I can no longer do:**
-
-- Climb ladders safely
-- Kneel or squat for more than 30 seconds
-- Lift anything over 25 pounds
-- Work overhead
-- Demonstrate proper technique physically
-- Work a full 8-hour day without collapsing
+| **Things I can still do:** | **Things I can no longer do:** |
+| ------ | ------|
+| :material-checkbox-outline: Drive the truck (barely) | :material-checkbox-blank-off-outline: Climb ladders safely |
+| :material-checkbox-outline: Supervise from ground level | :material-checkbox-blank-off-outline: Kneel or squat for more than 30 seconds |
+| :material-checkbox-outline: Make phone calls and handle paperwork | :material-checkbox-blank-off-outline: Lift anything over 25 pounds |
+| :material-checkbox-outline: Light hand tools for short periods | :material-checkbox-blank-off-outline: Work overhead |
+|  | :material-checkbox-blank-off-outline: Demonstrate proper technique physically |
+|  | :material-checkbox-blank-off-outline: Work a full 8-hour day without collapsing |
 
 The second list was growing faster than the first.
 

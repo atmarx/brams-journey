@@ -1,4 +1,4 @@
-site_name: "From Inflammation to Healing"
+site_name: "Recovering from Inflammation"
 site_description: "A contractor's journey through mold illness, joint pain, and complete recovery"
 # site_url: https://your-domain.com/
 
@@ -37,10 +37,15 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.blocks.caption
   - footnotes
   - tables
   - attr_list
@@ -55,13 +60,13 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-repo
+      link: https://github.com/atmarx/brams-journey/
       name: Source on GitHub
 
 copyright: |
   This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0</a>.
   <br>⚠️ <a href="/disclaimers/">Important Disclaimers</a> — This is educational content, not medical advice.
-
+  <br>If you got value out of this, <a href="https://buymeacoffee.com/atmarx">considering buying me a coffee</a>.
 nav:
   - Home: index.md
   - Journey:
