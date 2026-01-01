@@ -1,0 +1,129 @@
+site_name: "From Inflammation to Healing"
+site_description: "A contractor's journey through mold illness, joint pain, and complete recovery"
+# site_url: https://your-domain.com/
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - toc.integrate
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: blue
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-repo
+      name: Source on GitHub
+
+copyright: |
+  This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0</a>.
+  <br>⚠️ <a href="/disclaimers/">Important Disclaimers</a> — This is educational content, not medical advice.
+
+nav:
+  - Home: index.md
+  - Journey:
+    - journey/index.md
+    - "Part I: The Unraveling":
+      - "Chapter 1: When Did It Start?": journey/chapter-1-when-did-it-start.md
+      - "Chapter 2: The Cascade": journey/chapter-2-the-cascade.md
+    - "Part II: The Investigation":
+      - "Chapter 3: Crisis Point": journey/chapter-3-crisis-point.md
+      - "Chapter 4: The Testing": journey/chapter-4-the-testing.md
+      - "Chapter 5: The Home Inspection": journey/chapter-5-the-home-inspection.md
+      - "Chapter 6: The Revelation": journey/chapter-6-the-revelation-and-decision.md
+    - "Part III: Recovery Protocols": protocols/index.md
+    - "Part IV: The Transformation":
+      - "Chapter 7: Nine Months": journey/chapter-7-nine-months-taking-stock.md
+      - "Chapter 8: One Year": journey/chapter-8-one-year-the-new-normal.md
+      - "Chapter 9: Lessons and Legacy": journey/chapter-9-lessons-and-legacy.md
+    - "Epilogue: Three Years Later": journey/epilogue-three-years-later.md
+  - Exercises:
+    - exercises/index.md
+    - "Daily 8 Foundation":
+      - Overview: exercises/daily-8.md
+      - Cat-Cow: exercises/cat-cow.md
+      - Child's Pose: exercises/childs-pose.md
+      - 90/90 Hip Stretch: exercises/90-90-hip-stretch.md
+      - Hip Flexor Stretch: exercises/hip-flexor-stretch.md
+      - Doorway Pec Stretch: exercises/doorway-pec-stretch.md
+      - Supine Spinal Twist: exercises/supine-spinal-twist.md
+      - Calf & Hamstring Stretch: exercises/calf-hamstring-stretch.md
+      - Legs Up the Wall: exercises/legs-up-wall.md
+    - "Invisible 8 Job Site":
+      - Overview: exercises/invisible-8.md
+      - Stomach Vacuum: exercises/stomach-vacuum.md
+      - Calf Raises: exercises/calf-raises.md
+      - Scapular Wall Slides: exercises/scapular-wall-slides.md
+      - Glute Squeezes: exercises/glute-squeezes.md
+      - Neck Retractions: exercises/neck-retractions.md
+      - Shoulder Blade Squeezes: exercises/shoulder-blade-squeezes.md
+      - Hip Circles: exercises/hip-circles.md
+      - Wrist Circles: exercises/wrist-circles.md
+    - "Office Worker Adaptations":
+      - Overview: exercises/office-worker.md
+      - Stomach Vacuum: exercises/office-stomach-vacuum.md
+      - Calf Raises: exercises/office-calf-raises.md
+      - Scapular Wall Slides: exercises/office-scapular-wall-slides.md
+      - Glute Squeezes: exercises/office-glute-squeezes.md
+      - Neck Retractions: exercises/office-neck-retractions.md
+      - Shoulder Blade Squeezes: exercises/office-shoulder-blade-squeezes.md
+      - Hip Circles: exercises/office-hip-circles.md
+      - Wrist Circles: exercises/office-wrist-circles.md
+  - Protocols:
+    - protocols/index.md
+    - Anti-Inflammatory Diet: protocols/anti-inflammatory-diet.md
+    - Supplements: protocols/supplements.md
+    - Cannabis as Medicine: protocols/cannabis.md
+    - Medicinal Mushrooms: protocols/mushrooms.md
+  - Resources:
+    - resources/index.md
+    - 30-Day Starter: resources/30-day-starter.md
+    - Tracking Templates: resources/tracking-templates.md
+    - Meal Planning: resources/meal-planning.md
+    - Supplement Schedule: resources/supplement-schedule.md
+    - Mold Remediation: resources/mold-remediation.md
+    - Further Reading: resources/further-reading.md
+  - Disclaimers: disclaimers.md

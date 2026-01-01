@@ -1,0 +1,6 @@
+/* Custom styles for Bram's Journey */
+
+/* Admonition font size adjustment */
+.md-typeset .admonition {
+    font-size: 0.8rem;
+}
