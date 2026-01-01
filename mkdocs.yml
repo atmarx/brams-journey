@@ -16,6 +16,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.tabs.link
+    - content.footnote.tooltips
   palette:
     - scheme: default
       primary: custom

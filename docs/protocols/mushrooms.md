@@ -37,6 +37,11 @@ The logic was sound. He tried it.
 
 ### Reishi (*[Ganoderma lucidum](https://en.wikipedia.org/wiki/Ganoderma_lucidum)*) — "The Mushroom of Immortality"
 
+
+!!! abstract inline end "Learn More"
+
+    For an in-depth herbalist perspective including clinical applications and research citations, see [Richard Whelan's Reishi monograph](https://www.rjwhelan.co.nz/herbs%20A-Z/reishi.html).
+
 **Traditional use:** Over 2,000 years in Chinese medicine for longevity, immune support, and spiritual potency[^reishi-history]
 
 [^reishi-history]: Wachtel-Galor S, et al. "Ganoderma lucidum (Lingzhi or Reishi): A Medicinal Mushroom." In: [*Herbal Medicine: Biomolecular and Clinical Aspects*](https://www.ncbi.nlm.nih.gov/books/NBK92757/). 2nd ed. CRC Press/Taylor & Francis; 2011.
@@ -57,13 +62,13 @@ The logic was sound. He tried it.
 
 [^reishi-sleep]: Cui XY, et al. "Extract of Ganoderma lucidum prolongs sleep time in rats." [*J Ethnopharmacol*](https://pubmed.ncbi.nlm.nih.gov/22207209/) 2012;139(3):796-800.
 
+![Making reishi tincture - dual extraction process](../images/making-reishi-tincture.png){ align=right width=30% }
+
 **How Bram used it:**
 
 - Dual extraction tincture (water + alcohol extract)
 - 2ml twice daily: morning (in coffee) and evening (under tongue)
 - Consistent daily use
-
-![Making reishi tincture - dual extraction process](../images/making-reishi-tincture.png)
 
 **Why dual extraction matters:** Water extracts polysaccharides (immune compounds). Alcohol extracts triterpenes (anti-inflammatory compounds). You need both for full benefit.
 
@@ -265,15 +270,14 @@ His autoimmune-like symptoms (body attacking own joints) suggested immune dysreg
 
 | Quality Marker | Why It Matters |
 |----------------|----------------|
-| Fruiting body extract | Actual mushroom, not grain-grown mycelium(1) |
+| Fruiting body extract[^fruitingbody] | Actual mushroom, not grain-grown mycelium |
 | Beta-glucan content listed | Active compound—should be >20% |
 | Dual extraction (for reishi) | Gets both water and alcohol-soluble compounds |
 | Third-party testing | Verifies contents and checks for contaminants |
 | Organic certification | Mushrooms bioaccumulate toxins from environment |
 | Transparent sourcing | Know where your mushrooms come from |
-{ .annotate }
 
-1.  **Fruiting body** is the mushroom you recognize—the cap and stem. **Mycelium** is the root-like network that grows through substrate. Mycelium grown on grain often contains mostly grain starch, not mushroom compounds.
+[^fruitingbody]: **Fruiting body** is the mushroom you recognize—the cap and stem. **Mycelium** is the root-like network that grows through substrate. Mycelium grown on grain often contains mostly grain starch, not mushroom compounds.
 
 **Red flags:**
 

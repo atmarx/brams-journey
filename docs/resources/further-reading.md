@@ -93,6 +93,38 @@ Books, websites, communities, and resources for deeper learning on each topic ar
 
 ---
 
+## Traditional & Constitutional Herbalism
+
+### Richard Whelan's Medical Herbalism
+
+[Richard Whelan](https://www.rjwhelan.co.nz/) is a medical herbalist in New Zealand who has created one of the most comprehensive free herbal resources online. His site is exceptional for several reasons:
+
+- **Research-backed:** Each herb monograph includes clinical studies with citations
+- **Practical:** Dosing guidance from decades of clinical experience
+- **Constitutional approach:** Personalizes recommendations based on individual constitution
+- **No commercial agenda:** Educational content with no products to sell
+
+| Resource | URL | Description |
+|----------|-----|-------------|
+| Herbs A-Z | [rjwhelan.co.nz/herbs_A-Z](https://www.rjwhelan.co.nz/herbs_A-Z.html) | 150+ detailed herb monographs |
+| Constitutional Medicine | [Introduction](https://www.rjwhelan.co.nz/articles/constitutional_medicine_introduction.html) | The hot/cold, damp/dry framework |
+| Articles | [rjwhelan.co.nz/articles](https://www.rjwhelan.co.nz/articles.html) | Detoxification, immunity, healing journey |
+
+**Particularly relevant monographs for inflammation recovery:**
+
+| Herb | Focus |
+|------|-------|
+| [Turmeric](https://www.rjwhelan.co.nz/herbs%20A-Z/turmeric.html) | Anti-inflammatory, joint pain |
+| [Withania (Ashwagandha)](https://www.rjwhelan.co.nz/herbs%20A-Z/withania.html) | Stress, immune modulation, inflammation |
+| [Reishi](https://www.rjwhelan.co.nz/herbs%20A-Z/reishi.html) | Immune support, sleep, adaptogen |
+| [Devil's Claw](https://www.rjwhelan.co.nz/herbs%20A-Z/devilsclaw.html) | Joint pain, arthritis |
+| [Ginger](https://www.rjwhelan.co.nz/herbs%20A-Z/ginger.html) | Digestion, circulation, warming |
+| [St. Mary's Thistle (Milk Thistle)](https://www.rjwhelan.co.nz/herbs%20A-Z/stmarys_thistle.html) | Liver support, detoxification |
+| [Echinacea](https://www.rjwhelan.co.nz/herbs%20A-Z/echinacea.html) | Immune support |
+| [Licorice](https://www.rjwhelan.co.nz/herbs%20A-Z/licorice.html) | Adrenal support, gut healing |
+
+---
+
 ## Medicinal Mushrooms
 
 ### Books

@@ -103,6 +103,8 @@ If budget is limited, prioritize these four supplements. They address the most c
 
 **Dose:** 1,000mg twice daily (standardized to 95% curcuminoids)
 
+For a comprehensive traditional herbalist perspective on turmeric including clinical applications and constitutional considerations, see [Richard Whelan's turmeric monograph](https://www.rjwhelan.co.nz/herbs%20A-Z/turmeric.html).
+
 **Why it matters:**
 
 - Inhibits COX-2 enzyme (same mechanism as ibuprofen)(1)[^curcumin-cox2]
@@ -262,7 +264,7 @@ Once the Core Four are established and budget allows, add these for comprehensiv
 
 - **NAC (N-Acetyl Cysteine):** 500–600mg twice daily—precursor to glutathione
 - **Liposomal Glutathione:** 250–500mg daily if NAC alone isn't sufficient
-- **Milk Thistle:** 150–300mg daily—supports liver detox pathways[^milkthistle]
+- **Milk Thistle:** 150–300mg daily—supports liver detox pathways[^milkthistle] (see [Richard Whelan's St. Mary's Thistle monograph](https://www.rjwhelan.co.nz/herbs%20A-Z/stmarys_thistle.html))
 
 [^milkthistle]: Abenavoli L, et al. "Milk thistle in liver diseases: past, present, future." [*Phytother Res*](https://pubmed.ncbi.nlm.nih.gov/20564545/) 2010;24(10):1423-1432.
 
@@ -288,6 +290,7 @@ Beyond the core protocol:
 - **Glucosamine/Chondroitin:** 1,500mg/1,200mg daily—joint structure support[^gluc-chon]
 - **MSM:** 1,000–3,000mg daily—sulfur for connective tissue[^msm]
 - **Boswellia:** 300–500mg daily—anti-inflammatory herb specific to joints[^boswellia]
+- **Devil's Claw:** An alternative or complement to boswellia for joint pain—see [Richard Whelan's Devil's Claw monograph](https://www.rjwhelan.co.nz/herbs%20A-Z/devilsclaw.html)
 
 [^collagen]: Clark KL, et al. "24-Week study on the use of collagen hydrolysate as a dietary supplement in athletes with activity-related joint pain." [*Curr Med Res Opin*](https://pubmed.ncbi.nlm.nih.gov/18416885/) 2008;24(5):1485-1496.
 
@@ -412,6 +415,25 @@ By month 6:
 - CRP: 1.8 mg/L (below normal—excellent)
 
 The supplements didn't work alone—they supported the diet, movement, and environmental changes. But they were a critical piece of the puzzle.
+
+---
+
+## A Note on Constitutional Medicine
+
+!!! tip "Personalizing Your Protocol"
+    Traditional herbalism recognizes that people have different constitutional types—and what works for one person may not be optimal for another. Richard Whelan, a medical herbalist in New Zealand, uses a framework of four constitutions based on two spectrums:
+
+    - **Hotter ↔ Cooler:** How you direct energy (outward vs. inward)
+    - **Damper ↔ Dryer:** Physical and emotional tendencies
+
+    These combine into four types: **Tigers** (hot/damp), **Eagles** (hot/dry), **Bears** (cool/damp), and **Elephant/Butterflies** (cool/dry).
+
+    For example, someone with a "hot" constitution experiencing inflammation might respond differently to warming herbs like ginger than someone with a "cool" constitution.
+
+    To learn more about constitutional approaches to herbal medicine:
+
+    - [Constitutional Medicine Introduction](https://www.rjwhelan.co.nz/articles/constitutional_medicine_introduction.html)
+    - [Richard Whelan's Herbs A-Z](https://www.rjwhelan.co.nz/herbs_A-Z.html) — comprehensive, research-backed herb monographs
 
 ---
 
