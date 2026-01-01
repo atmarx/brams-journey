@@ -82,10 +82,9 @@ Even low-dose THC can impair:
 
 ### Addiction Potential
 
-While less addictive than alcohol, opioids, or benzodiazepines, cannabis dependence is possible. Approximately 9% of users develop dependence.(1) Monitor your use patterns and seek help if you feel unable to stop despite wanting to.
-{ .annotate }
+While less addictive than alcohol, opioids, or benzodiazepines, cannabis dependence is possible. Approximately 9% of users develop dependence.[^dependence-stat] Monitor your use patterns and seek help if you feel unable to stop despite wanting to.
 
-1.  This statistic comes from a widely-cited NIDA study. The rate rises to about 17% for those who start using in adolescence.[^dependence]
+[^dependence-stat]: This statistic comes from a widely-cited NIDA study. The rate rises to about 17% for those who start using in adolescence.[^dependence]
 
 [^dependence]: National Institute on Drug Abuse. ["Is marijuana addictive?"](https://nida.nih.gov/publications/research-reports/marijuana/marijuana-addictive) Research Report Series.
 
@@ -186,11 +185,10 @@ Always inform your healthcare providers about any supplements you're taking, inc
 
 - Muscle burn during exercise (4-6/10 intensity)
 - Stretching sensation that feels productive (4-6/10)
-- Mild muscle soreness 24-48 hours after exercise (1/10)
+- Mild muscle soreness 24-48 hours after exercise[^doms-note] (1/10)
 - Sensation that improves with breathing and relaxation
-{ .annotate }
 
-1.  This delayed soreness is called **DOMS** (Delayed Onset Muscle Soreness) and is a normal response to unfamiliar exercise.[^doms]
+[^doms-note]: This delayed soreness is called **DOMS** (Delayed Onset Muscle Soreness) and is a normal response to unfamiliar exercise.[^doms]
 
 [^doms]: American College of Sports Medicine. ["Delayed Onset Muscle Soreness"](https://www.acsm.org/docs/default-source/files-for-resource-library/delayed-onset-muscle-soreness-(doms).pdf) - Position stand on exercise-induced muscle damage.
 
@@ -251,14 +249,13 @@ Poor form can cause injury even with "safe" exercises. Consider:
 
 ### Always Hire Certified Professionals For
 
-- Contamination over 10 square feet of visible mold(1)
+- Contamination over 10 square feet of visible mold[^epa-threshold]
 - Toxic species ([*Stachybotrys chartarum*](https://en.wikipedia.org/wiki/Stachybotrys_chartarum)/black mold or other known toxic varieties)
 - HVAC contamination (spores in ductwork spread throughout building)
 - Hidden mold (in wall cavities, under flooring, in attic/crawlspace)
 - Structural damage (water damage affecting building integrity)
-{ .annotate }
 
-1.  The 10 square foot threshold comes from EPA guidelines. Larger areas require professional containment to prevent spore spread during remediation.[^epa]
+[^epa-threshold]: The 10 square foot threshold comes from EPA guidelines. Larger areas require professional containment to prevent spore spread during remediation.[^epa]
 
 [^epa]: U.S. Environmental Protection Agency. ["Mold Cleanup in Your Home"](https://www.epa.gov/mold/mold-cleanup-your-home) - EPA guidance on when professional remediation is necessary.
 
@@ -279,12 +276,11 @@ Attempting to remediate mold yourself can:
 ### During Professional Remediation
 
 - **Relocate:** Do not stay in building during remediation
-- **Proper containment:** Ensure remediation company uses negative air pressure and HEPA filtration(1)
+- **Proper containment:** Ensure remediation company uses negative air pressure and HEPA filtration[^hepa]
 - **Post-remediation testing:** Require clearance testing before moving back
 - **Address root causes:** Fix leaks, improve ventilation, address drainage issues
-{ .annotate }
 
-1.  **HEPA** (High-Efficiency Particulate Air) filters capture 99.97% of particles 0.3 microns or larger, including mold spores which are typically 1-30 microns.
+[^hepa]: **HEPA** (High-Efficiency Particulate Air) filters capture 99.97% of particles 0.3 microns or larger, including mold spores which are typically 1-30 microns.
 
 ### Small-Scale Cleanup (<10 sq ft)
 
@@ -303,15 +299,14 @@ But recognize this addresses symptoms, not cause. Professional assessment is sti
 
 **Look for:**
 
-- Certification ([IICRC](https://iicrc.org/), [NORMI](https://www.normi.org/), [ACAC](https://www.acac.org/), or equivalent)(1)
+- Certification ([IICRC](https://iicrc.org/), [NORMI](https://www.normi.org/), [ACAC](https://www.acac.org/), or equivalent)[^certifications]
 - Insurance and bonding
 - References from past clients
 - Willingness to provide detailed work plan
 - Use of proper containment and HEPA filtration
 - Post-remediation verification testing
-{ .annotate }
 
-1.  **IICRC** = Institute of Inspection, Cleaning and Restoration Certification. **NORMI** = National Organization of Remediators and Mold Inspectors. **ACAC** = American Council for Accredited Certification. These organizations maintain standards for mold assessment and remediation professionals.
+[^certifications]: **IICRC** = Institute of Inspection, Cleaning and Restoration Certification. **NORMI** = National Organization of Remediators and Mold Inspectors. **ACAC** = American Council for Accredited Certification. These organizations maintain standards for mold assessment and remediation professionals.
 
 **Avoid companies that:**
 

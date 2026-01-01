@@ -33,10 +33,9 @@ If budget is limited, prioritize these four supplements. They address the most c
 
 ### 1. Omega-3 Fish Oil
 
-**Dose:** 2–3g combined EPA+DHA(1) daily
-{ .annotate }
+**Dose:** 2–3g combined EPA+DHA[^epa-dha] daily
 
-1.  **EPA** (eicosapentaenoic acid) and **DHA** (docosahexaenoic acid) are the two primary omega-3 fatty acids with anti-inflammatory effects. ALA from plant sources must be converted and has low conversion efficiency.
+[^epa-dha]: **EPA** (eicosapentaenoic acid) and **DHA** (docosahexaenoic acid) are the two primary omega-3 fatty acids with anti-inflammatory effects. ALA from plant sources must be converted and has low conversion efficiency.
 
 **Why it matters:**
 
@@ -107,16 +106,15 @@ For a comprehensive traditional herbalist perspective on turmeric including clin
 
 **Why it matters:**
 
-- Inhibits COX-2 enzyme (same mechanism as ibuprofen)(1)[^curcumin-cox2]
-- Reduces NF-κB activation (master inflammatory switch)(2)[^curcumin-nfkb]
+- Inhibits COX-2 enzyme[^cox2] (same mechanism as ibuprofen)[^curcumin-cox2]
+- Reduces NF-κB activation[^nfkb] (master inflammatory switch)[^curcumin-nfkb]
 - Neuroprotective effects
 - Studies show effectiveness comparable to NSAIDs for joint pain[^curcumin-arthritis]
 - Without the stomach/kidney damage of long-term NSAID use
-{ .annotate }
 
-1.  **COX-2** (cyclooxygenase-2) is an enzyme that produces prostaglandins, which cause inflammation and pain. NSAIDs like ibuprofen work by blocking this enzyme.
+[^cox2]: **COX-2** (cyclooxygenase-2) is an enzyme that produces prostaglandins, which cause inflammation and pain. NSAIDs like ibuprofen work by blocking this enzyme.
 
-2.  **NF-κB** (nuclear factor kappa-light-chain-enhancer of activated B cells) is a protein complex that controls inflammatory gene expression. It's been called the "master switch" of inflammation.
+[^nfkb]: **NF-κB** (nuclear factor kappa-light-chain-enhancer of activated B cells) is a protein complex that controls inflammatory gene expression. It's been called the "master switch" of inflammation.
 
 [^curcumin-cox2]: Menon VP, Sudheer AR. "Antioxidant and anti-inflammatory properties of curcumin." [*Adv Exp Med Biol*](https://pubmed.ncbi.nlm.nih.gov/17569207/) 2007;595:105-125.
 
@@ -224,16 +222,15 @@ Once the Core Four are established and budget allows, add these for comprehensiv
 
 **What to look for:**
 
-- **Third-party testing:** [USP](https://www.usp.org/), [NSF](https://www.nsf.org/), [ConsumerLab](https://www.consumerlab.com/) verification(1)
-- **Proper forms:** (e.g., magnesium glycinate not oxide, methylated B vitamins if MTHFR issues)(2)
+- **Third-party testing:** [USP](https://www.usp.org/), [NSF](https://www.nsf.org/), [ConsumerLab](https://www.consumerlab.com/) verification[^testing-orgs]
+- **Proper forms:** (e.g., magnesium glycinate not oxide, methylated B vitamins if MTHFR issues)[^mthfr]
 - **Clean ingredients:** No fillers, artificial colors, or common allergens
 - **Transparent sourcing:** Company provides information about ingredient origins
 - **Refrigeration when needed:** Fish oil especially
-{ .annotate }
 
-1.  **USP** (United States Pharmacopeia), **NSF** (National Sanitation Foundation), and **ConsumerLab** are independent organizations that test supplements for purity, potency, and contamination.
+[^testing-orgs]: **USP** (United States Pharmacopeia), **NSF** (National Sanitation Foundation), and **ConsumerLab** are independent organizations that test supplements for purity, potency, and contamination.
 
-2.  **MTHFR** (methylenetetrahydrofolate reductase) is a gene that affects folate metabolism. People with certain MTHFR variants may need methylated forms of B vitamins (like methylfolate instead of folic acid).
+[^mthfr]: **MTHFR** (methylenetetrahydrofolate reductase) is a gene that affects folate metabolism. People with certain MTHFR variants may need methylated forms of B vitamins (like methylfolate instead of folic acid).
 
 **Red flags:**
 
@@ -257,10 +254,9 @@ Once the Core Four are established and budget allows, add these for comprehensiv
 
 ### For Mold Illness Specifically
 
-**Glutathione support is critical.** Mold-susceptible individuals often have impaired detoxification.(1) Support [glutathione](https://en.wikipedia.org/wiki/Glutathione) production:
-{ .annotate }
+**Glutathione support is critical.** Mold-susceptible individuals often have impaired detoxification.[^hla-dr] Support [glutathione](https://en.wikipedia.org/wiki/Glutathione) production:
 
-1.  People with certain HLA-DR gene variants (about 25% of the population) have difficulty clearing biotoxins like mycotoxins. See Dr. Ritchie Shoemaker's research on [CIRS](https://www.survivingmold.com/diagnosis/the-biotoxin-pathway).
+[^hla-dr]: People with certain HLA-DR gene variants (about 25% of the population) have difficulty clearing biotoxins like mycotoxins. See Dr. Ritchie Shoemaker's research on [CIRS](https://www.survivingmold.com/diagnosis/the-biotoxin-pathway).
 
 - **NAC (N-Acetyl Cysteine):** 500–600mg twice daily—precursor to glutathione
 - **Liposomal Glutathione:** 250–500mg daily if NAC alone isn't sufficient
@@ -277,10 +273,9 @@ Once the Core Four are established and budget allows, add these for comprehensiv
 
 [^binders]: Hope J. "A review of the mechanism of injury and treatment approaches for illness resulting from exposure to water-damaged buildings, mold, and mycotoxins." [*ScientificWorldJournal*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654247/) 2013.
 
-These bind mycotoxins(1) in the gut for elimination. Timing matters—take away from food and other supplements.
-{ .annotate }
+These bind mycotoxins[^mycotoxins] in the gut for elimination. Timing matters—take away from food and other supplements.
 
-1.  **Mycotoxins** are toxic secondary metabolites produced by certain molds. Common mycotoxins include aflatoxins, ochratoxin A, and trichothecenes.
+[^mycotoxins]: **Mycotoxins** are toxic secondary metabolites produced by certain molds. Common mycotoxins include aflatoxins, ochratoxin A, and trichothecenes.
 
 ### For Joint Issues Specifically
 

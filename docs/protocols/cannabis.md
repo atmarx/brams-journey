@@ -36,13 +36,12 @@ The human body has a built-in system designed to interact with cannabinoids:
 
 **The [Endocannabinoid System](https://en.wikipedia.org/wiki/Endocannabinoid_system) (ECS):**[^ecs-discovery]
 
-- Network of receptors throughout the body (CB1, CB2)(1)
+- Network of receptors throughout the body (CB1, CB2)[^cb-receptors]
 - Regulates inflammation, pain, mood, sleep, appetite, immune function[^ecs-functions]
 - The body produces its own cannabinoids ([anandamide](https://en.wikipedia.org/wiki/Anandamide), [2-AG](https://en.wikipedia.org/wiki/2-Arachidonoylglycerol))
 - Plant cannabinoids (from cannabis) interact with this system
-{ .annotate }
 
-1.  **CB1 receptors** are primarily found in the brain and central nervous system. **CB2 receptors** are mainly in the immune system and peripheral tissues.
+[^cb-receptors]: **CB1 receptors** are primarily found in the brain and central nervous system. **CB2 receptors** are mainly in the immune system and peripheral tissues.
 
 [^ecs-discovery]: The endocannabinoid system was discovered in the early 1990s by researchers studying THC. See: Devane WA, et al. "Isolation and structure of a brain constituent that binds to the cannabinoid receptor." [*Science*](https://pubmed.ncbi.nlm.nih.gov/1470919/) 1992;258(5090):1946-1949.
 
@@ -250,14 +249,13 @@ Over the next month, Bram dialed in his optimal dosing:
 
 **Buy from licensed dispensaries.** Look for:
 
-- Third-party lab testing (COA—Certificate of Analysis)(1)
+- Third-party lab testing (COA—Certificate of Analysis)[^coa]
 - Accurate cannabinoid content
 - No pesticides, heavy metals, or solvents
 - Organic cultivation when possible
 - Transparent company practices
-{ .annotate }
 
-1.  A **Certificate of Analysis (COA)** is a lab report showing exactly what's in the product—cannabinoid levels, terpene profile, and testing for contaminants like pesticides, heavy metals, and residual solvents. Reputable companies make these available on their websites.
+[^coa]: A **Certificate of Analysis (COA)** is a lab report showing exactly what's in the product—cannabinoid levels, terpene profile, and testing for contaminants like pesticides, heavy metals, and residual solvents. Reputable companies make these available on their websites.
 
 **Quality costs more.** But ineffective medicine is more expensive.
 
@@ -285,10 +283,9 @@ Over the next month, Bram dialed in his optimal dosing:
 
 ### Medication Interactions
 
-Cannabis can interact with medications metabolized by cytochrome P450 enzymes:(1)
-{ .annotate }
+Cannabis can interact with medications metabolized by cytochrome P450 enzymes:[^cyp450]
 
-1.  **Cytochrome P450** is a family of liver enzymes responsible for metabolizing many drugs. CBD in particular can inhibit CYP3A4 and CYP2D6, potentially increasing blood levels of other medications.
+[^cyp450]: **Cytochrome P450** is a family of liver enzymes responsible for metabolizing many drugs. CBD in particular can inhibit CYP3A4 and CYP2D6, potentially increasing blood levels of other medications.
 
 - **Blood thinners** (increased bleeding risk)[^interactions]
 - **Sedatives/benzodiazepines** (enhanced sedation)
