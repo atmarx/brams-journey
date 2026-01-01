@@ -73,12 +73,14 @@ Dr. Chen nodded throughout, taking notes on an actual paper pad, not a tablet.
 
 "Results come back in stages over two weeks. But Bram, I need you to understand something important before we proceed."
 
+<figure class="figure-left" markdown>
+![Moldy house](../images/mold-house.jpg)
+<figcaption>Photo by <a href="https://unsplash.com/@schaffler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">michael schaffler</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-piece-of-metal-with-moss-growing-on-it-_6Ae1LgFFFA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
+</figure>
+
 She leaned forward, hands folded on her desk.
 
-![Moldy house](../images/mold-house.jpg){ align=left width=50% }
-
-
-"This isn't a quick fix. If mold[^image-moldyhouse] is the trigger—and I think it probably is based on your presentation and history—removing the exposure is step one. But your body has been in inflammatory overdrive for months, possibly longer. Your immune system is stuck in a loop, attacking your own tissues. Turning that off takes time. Healing the damage that's already occurred takes even longer. Are you ready for that?"
+"This isn't a quick fix. If mold is the trigger—and I think it probably is based on your presentation and history—removing the exposure is step one. But your body has been in inflammatory overdrive for months, possibly longer. Your immune system is stuck in a loop, attacking your own tissues. Turning that off takes time. Healing the damage that's already occurred takes even longer. Are you ready for that?"
 
 "I don't have a choice."
 
@@ -96,5 +98,3 @@ Bram thought about the ladder incident. About lying in his truck bed during lunc
 ---
 
 *Continue to [Chapter 4: The Testing](chapter-4-the-testing.md) or return to [Journey Home](index.md)*
-
-[^image-moldyhouse]: Photo by <a href="https://unsplash.com/@schaffler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">michael schaffler</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-piece-of-metal-with-moss-growing-on-it-_6Ae1LgFFFA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

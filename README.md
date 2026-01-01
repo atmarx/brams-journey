@@ -5,6 +5,10 @@ A free, open-source health resource for contractors and blue-collar workers deal
 ## Local Development
 
 ```bash
+# Create venv
+python -m venv .venv
+source .venv/bin/activate
+
 # Install dependencies
 pip install mkdocs-material
 

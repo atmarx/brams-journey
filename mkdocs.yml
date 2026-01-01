@@ -4,6 +4,8 @@ site_description: "A contractor's journey through mold illness, joint pain, and 
 
 theme:
   name: material
+  favicon: images/favicon.svg
+  logo: images/favicon.svg
   features:
     - navigation.sections
     - navigation.expand
@@ -16,13 +18,13 @@ theme:
     - content.tabs.link
   palette:
     - scheme: default
-      primary: blue
+      primary: custom
       accent: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: blue
+      primary: custom
       accent: orange
       toggle:
         icon: material/brightness-4
@@ -53,6 +55,9 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
 
 extra_css:
   - stylesheets/extra.css

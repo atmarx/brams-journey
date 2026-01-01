@@ -1,6 +1,62 @@
 /* Custom styles for Bram's Journey */
 
+/* Sage green primary color */
+:root {
+    --md-primary-fg-color: #6B7F6B;
+    --md-primary-fg-color--light: #8A9F8A;
+    --md-primary-fg-color--dark: #4A5F4A;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #5A6F5A;
+    --md-primary-fg-color--light: #7A8F7A;
+    --md-primary-fg-color--dark: #3A4F3A;
+}
+
+/* Logo box styling */
+.md-header__button.md-logo {
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+    padding: 4px;
+}
+
 /* Admonition font size adjustment */
-.md-typeset .admonition {
+.md-typeset .admonition, .md-typeset table:not([class])  {
     font-size: 0.8rem;
+}
+
+/* Floated figures with captions */
+.md-typeset figure.figure-left,
+.md-typeset figure.figure-right {
+    margin: 0 0 1em 0;
+    max-width: 50%;
+}
+
+.md-typeset figure.figure-left {
+    float: left;
+    margin-right: 1.5em;
+}
+
+.md-typeset figure.figure-right {
+    float: right;
+    margin-left: 1.5em;
+}
+
+.md-typeset figure.figure-left img,
+.md-typeset figure.figure-right img {
+    width: 100%;
+    display: block;
+}
+
+.md-typeset figure.figure-left figcaption,
+.md-typeset figure.figure-right figcaption {
+    font-size: 0.75em;
+    color: var(--md-default-fg-color--light);
+    margin-top: 0em;
+    font-style: italic;
+}
+
+/* Clear floats after sections */
+.md-typeset hr {
+    clear: both;
 }

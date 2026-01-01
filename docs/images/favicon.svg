@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Main stem with slight curve -->
+  <path d="M16 30 C16 26 15 22 14 18 C13 14 13 12 14 10"
+        fill="none" stroke="#2E7D32" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- Main leaf - larger, with more natural shape -->
+  <path d="M14 10
+           C10 9 6 7 4 3
+           C5 3 7 3 9 4
+           C11 5 13 7 15 9
+           C17 7 20 5 24 4
+           C22 8 18 10 14 10Z"
+        fill="url(#leafGradient)"/>
+
+  <!-- Leaf vein - main -->
+  <path d="M14 10 C10 8 7 5 5 4"
+        fill="none" stroke="#1B5E20" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- Secondary smaller leaf -->
+  <path d="M15 16
+           C18 15 21 13 23 10
+           C22 13 19 15 15 16Z"
+        fill="url(#leafGradient2)"/>
+
+  <!-- Small vein on secondary leaf -->
+  <path d="M15 16 C18 14 21 12 22 11"
+        fill="none" stroke="#2E7D32" stroke-width="0.4" opacity="0.5"/>
+
+  <!-- Tiny emerging bud -->
+  <path d="M13.5 14 C11 13 9 11 8 9 C10 10 12 12 13.5 14Z"
+        fill="#81C784"/>
+
+  <!-- Gradients for depth -->
+  <defs>
+    <linearGradient id="leafGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#66BB6A"/>
+      <stop offset="50%" style="stop-color:#4CAF50"/>
+      <stop offset="100%" style="stop-color:#388E3C"/>
+    </linearGradient>
+    <linearGradient id="leafGradient2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#81C784"/>
+      <stop offset="100%" style="stop-color:#4CAF50"/>
+    </linearGradient>
+  </defs>
+</svg>

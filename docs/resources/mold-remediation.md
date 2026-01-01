@@ -11,23 +11,23 @@ When to call professionals, what to look for, and verification steps to ensure y
 
 ### Always Hire Certified Professionals For:
 
-- :material-checkbox-blank-outline: Contamination over 10 square feet of visible mold[^epa-threshold]
-- :material-checkbox-blank-outline: Toxic species identified or suspected ([*Stachybotrys*](https://en.wikipedia.org/wiki/Stachybotrys_chartarum)/black mold)
-- :material-checkbox-blank-outline: Mold in HVAC systems or ductwork
-- :material-checkbox-blank-outline: Hidden mold (inside walls, under flooring, in crawlspaces)
-- :material-checkbox-blank-outline: Structural water damage affecting building integrity
-- :material-checkbox-blank-outline: Any situation where you have mold illness/sensitivity
-- :material-checkbox-blank-outline: Mold resulting from sewage or contaminated water
+- [ ] Contamination over 10 square feet of visible mold[^epa-threshold]
+- [ ] Toxic species identified or suspected ([*Stachybotrys*](https://en.wikipedia.org/wiki/Stachybotrys_chartarum)/black mold)
+- [ ] Mold in HVAC systems or ductwork
+- [ ] Hidden mold (inside walls, under flooring, in crawlspaces)
+- [ ] Structural water damage affecting building integrity
+- [ ] Any situation where you have mold illness/sensitivity
+- [ ] Mold resulting from sewage or contaminated water
 
 [^epa-threshold]: The 10 square foot threshold comes from [EPA guidance on mold remediation](https://www.epa.gov/mold/mold-remediation-schools-and-commercial-buildings-guide). Areas larger than this require professional containment and equipment.
 
 ### Consider Professional Help For:
 
-- :material-checkbox-blank-outline: Musty odors with no visible source
-- :material-checkbox-blank-outline: Health symptoms that improve when away from home
-- :material-checkbox-blank-outline: Recurring mold despite previous cleanup
-- :material-checkbox-blank-outline: Mold in multiple locations
-- :material-checkbox-blank-outline: Any uncertainty about extent or species
+- [ ] Musty odors with no visible source
+- [ ] Health symptoms that improve when away from home
+- [ ] Recurring mold despite previous cleanup
+- [ ] Mold in multiple locations
+- [ ] Any uncertainty about extent or species
 
 ---
 
@@ -37,10 +37,10 @@ When to call professionals, what to look for, and verification steps to ensure y
 
 Look for at least one of:
 
-- :material-checkbox-blank-outline: **[IICRC](https://iicrc.org)** — Institute of Inspection, Cleaning and Restoration Certification
-- :material-checkbox-blank-outline: **[NORMI](https://normi.org)** — National Organization of Remediators and Mold Inspectors
-- :material-checkbox-blank-outline: **[ACAC](https://acac.org)** — American Council for Accredited Certification
-- :material-checkbox-blank-outline: **[RIA](https://restorationindustry.org)** — Restoration Industry Association
+- [ ] **[IICRC](https://iicrc.org)** — Institute of Inspection, Cleaning and Restoration Certification
+- [ ] **[NORMI](https://normi.org)** — National Organization of Remediators and Mold Inspectors
+- [ ] **[ACAC](https://acac.org)** — American Council for Accredited Certification
+- [ ] **[RIA](https://restorationindustry.org)** — Restoration Industry Association
 
 ### Questions to Ask
 
@@ -57,13 +57,13 @@ Look for at least one of:
 
 **Red Flags — Avoid Companies That:**
 
-- :material-checkbox-blank-outline: Offer same-day testing AND remediation (conflict of interest)
-- :material-checkbox-blank-outline: Refuse to provide written documentation
-- :material-checkbox-blank-outline: Use scare tactics or high-pressure sales
-- :material-checkbox-blank-outline: Can't provide proof of certification
-- :material-checkbox-blank-outline: Don't discuss moisture source correction
-- :material-checkbox-blank-outline: Quote without seeing the property
-- :material-checkbox-blank-outline: Guarantee "mold-free" results (impossible claim)
+- [ ] Offer same-day testing AND remediation (conflict of interest)
+- [ ] Refuse to provide written documentation
+- [ ] Use scare tactics or high-pressure sales
+- [ ] Can't provide proof of certification
+- [ ] Don't discuss moisture source correction
+- [ ] Quote without seeing the property
+- [ ] Guarantee "mold-free" results (impossible claim)
 
 ### Separating Testing and Remediation
 
@@ -84,25 +84,28 @@ This prevents conflicts of interest.
 ### Before Work Begins
 
 **Documentation:**
-- :material-checkbox-blank-outline: Written scope of work from remediator
-- :material-checkbox-blank-outline: Cost estimate in writing
-- :material-checkbox-blank-outline: Timeline for completion
-- :material-checkbox-blank-outline: Containment plan described
-- :material-checkbox-blank-outline: Air quality testing scheduled
+
+- [ ] Written scope of work from remediator
+- [ ] Cost estimate in writing
+- [ ] Timeline for completion
+- [ ] Containment plan described
+- [ ] Air quality testing scheduled
 
 **Your Preparation:**
-- :material-checkbox-blank-outline: Remove or protect belongings in affected areas
-- :material-checkbox-blank-outline: Identify items that may need disposal vs. cleaning
-- :material-checkbox-blank-outline: Arrange alternative housing during remediation
-- :material-checkbox-blank-outline: Notify neighbors if in shared building
-- :material-checkbox-blank-outline: Document existing conditions with photos/video
+
+- [ ] Remove or protect belongings in affected areas
+- [ ] Identify items that may need disposal vs. cleaning
+- [ ] Arrange alternative housing during remediation
+- [ ] Notify neighbors if in shared building
+- [ ] Document existing conditions with photos/video
 
 **Questions Answered:**
-- :material-checkbox-blank-outline: What PPE will workers use?
-- :material-checkbox-blank-outline: How will they contain the work area?
-- :material-checkbox-blank-outline: How will they prevent cross-contamination?
-- :material-checkbox-blank-outline: How will debris be removed and disposed?
-- :material-checkbox-blank-outline: What's the plan if they find more damage than expected?
+
+- [ ] What PPE will workers use?
+- [ ] How will they contain the work area?
+- [ ] How will they prevent cross-contamination?
+- [ ] How will debris be removed and disposed?
+- [ ] What's the plan if they find more damage than expected?
 
 ---
 
@@ -111,38 +114,42 @@ This prevents conflicts of interest.
 ### What Proper Remediation Looks Like
 
 **Containment:**
-- :material-checkbox-blank-outline: Work area sealed with plastic sheeting
-- :material-checkbox-blank-outline: [Negative air pressure](https://en.wikipedia.org/wiki/Negative_room_pressure) maintained (air flows INTO containment, not out)
-- :material-checkbox-blank-outline: [HEPA](https://en.wikipedia.org/wiki/HEPA) air scrubbers running continuously
-- :material-checkbox-blank-outline: Worker entry/exit through sealed "airlock"
+
+- [ ] Work area sealed with plastic sheeting
+- [ ] [Negative air pressure](https://en.wikipedia.org/wiki/Negative_room_pressure) maintained (air flows INTO containment, not out)
+- [ ] [HEPA](https://en.wikipedia.org/wiki/HEPA) air scrubbers running continuously
+- [ ] Worker entry/exit through sealed "airlock"
 
 **Worker Protection:**
-- :material-checkbox-blank-outline: Full [Tyvek](https://en.wikipedia.org/wiki/Tyvek) suits
-- :material-checkbox-blank-outline: [N95](https://en.wikipedia.org/wiki/N95_respirator) or P100 respirators (minimum)
-- :material-checkbox-blank-outline: Gloves and eye protection
-- :material-checkbox-blank-outline: Boot covers or dedicated footwear
+
+- [ ] Full [Tyvek](https://en.wikipedia.org/wiki/Tyvek) suits
+- [ ] [N95](https://en.wikipedia.org/wiki/N95_respirator) or P100 respirators (minimum)
+- [ ] Gloves and eye protection
+- [ ] Boot covers or dedicated footwear
 
 **Removal Process:**
-- :material-checkbox-blank-outline: Contaminated materials removed carefully (not ripped out)
-- :material-checkbox-blank-outline: Materials double-bagged in sealed plastic
-- :material-checkbox-blank-outline: HEPA vacuuming of all surfaces
-- :material-checkbox-blank-outline: Antimicrobial treatment of remaining structure
-- :material-checkbox-blank-outline: Documented disposal of contaminated materials
+
+- [ ] Contaminated materials removed carefully (not ripped out)
+- [ ] Materials double-bagged in sealed plastic
+- [ ] HEPA vacuuming of all surfaces
+- [ ] Antimicrobial treatment of remaining structure
+- [ ] Documented disposal of contaminated materials
 
 **What They Should Find and Address:**
-- :material-checkbox-blank-outline: All visible mold removed
-- :material-checkbox-blank-outline: Mold on hidden surfaces (back of drywall, behind insulation)
-- :material-checkbox-blank-outline: Water-damaged materials (even without visible mold)
-- :material-checkbox-blank-outline: The moisture source that caused the mold
+
+- [ ] All visible mold removed
+- [ ] Mold on hidden surfaces (back of drywall, behind insulation)
+- [ ] Water-damaged materials (even without visible mold)
+- [ ] The moisture source that caused the mold
 
 ### What to Watch For (Problems)
 
-- :material-checkbox-blank-outline: Workers not wearing proper PPE
-- :material-checkbox-blank-outline: No containment barriers visible
-- :material-checkbox-blank-outline: Dust or debris spreading to clean areas
-- :material-checkbox-blank-outline: Strong chemical smells (some treatment is normal, overpowering is not)
-- :material-checkbox-blank-outline: Rushing to finish faster than quoted timeline
-- :material-checkbox-blank-outline: Reluctance to show you the work
+- [ ] Workers not wearing proper PPE
+- [ ] No containment barriers visible
+- [ ] Dust or debris spreading to clean areas
+- [ ] Strong chemical smells (some treatment is normal, overpowering is not)
+- [ ] Rushing to finish faster than quoted timeline
+- [ ] Reluctance to show you the work
 
 ---
 
@@ -151,24 +158,27 @@ This prevents conflicts of interest.
 ### Before Accepting Work as Complete
 
 **Visual Inspection:**
-- :material-checkbox-blank-outline: No visible mold anywhere
-- :material-checkbox-blank-outline: All damaged materials removed
-- :material-checkbox-blank-outline: Structure is dry (verify with moisture meter)
-- :material-checkbox-blank-outline: Area is clean and free of debris
-- :material-checkbox-blank-outline: No musty odor
+
+- [ ] No visible mold anywhere
+- [ ] All damaged materials removed
+- [ ] Structure is dry (verify with moisture meter)
+- [ ] Area is clean and free of debris
+- [ ] No musty odor
 
 **Testing (Required):**
-- :material-checkbox-blank-outline: Independent post-remediation air quality testing
-- :material-checkbox-blank-outline: ERMI score < 2 (or significant reduction from pre-testing)
-- :material-checkbox-blank-outline: Spore counts comparable to outdoor/control samples
-- :material-checkbox-blank-outline: Written clearance report from independent inspector
+
+- [ ] Independent post-remediation air quality testing
+- [ ] ERMI score < 2 (or significant reduction from pre-testing)
+- [ ] Spore counts comparable to outdoor/control samples
+- [ ] Written clearance report from independent inspector
 
 **Documentation:**
-- :material-checkbox-blank-outline: Before and after photos
-- :material-checkbox-blank-outline: Moisture readings documented
-- :material-checkbox-blank-outline: List of all materials removed
-- :material-checkbox-blank-outline: Product data sheets for any treatments used
-- :material-checkbox-blank-outline: Warranty or guarantee (if offered)
+
+- [ ] Before and after photos
+- [ ] Moisture readings documented
+- [ ] List of all materials removed
+- [ ] Product data sheets for any treatments used
+- [ ] Warranty or guarantee (if offered)
 
 ### Clearance Testing Details
 
@@ -212,10 +222,10 @@ This prevents conflicts of interest.
 
 ### Verification Questions
 
-- :material-checkbox-blank-outline: What was the moisture source?
-- :material-checkbox-blank-outline: Has it been completely corrected?
-- :material-checkbox-blank-outline: What prevents it from recurring?
-- :material-checkbox-blank-outline: Are monitoring systems in place?
+- [ ] What was the moisture source?
+- [ ] Has it been completely corrected?
+- [ ] What prevents it from recurring?
+- [ ] Are monitoring systems in place?
 
 ---
 
@@ -223,33 +233,34 @@ This prevents conflicts of interest.
 
 ### Before Returning
 
-- :material-checkbox-blank-outline: Clearance testing passed
-- :material-checkbox-blank-outline: No musty odors detected
-- :material-checkbox-blank-outline: HVAC system professionally cleaned (if affected)
-- :material-checkbox-blank-outline: All repairs completed
-- :material-checkbox-blank-outline: Moisture monitoring plan in place
+- [ ] Clearance testing passed
+- [ ] No musty odors detected
+- [ ] HVAC system professionally cleaned (if affected)
+- [ ] All repairs completed
+- [ ] Moisture monitoring plan in place
 
 ### First Month Back
 
-- :material-checkbox-blank-outline: Monitor for symptom recurrence
-- :material-checkbox-blank-outline: Check problem areas weekly for moisture
-- :material-checkbox-blank-outline: Run dehumidifier if humidity > 50%
-- :material-checkbox-blank-outline: Maintain good ventilation
-- :material-checkbox-blank-outline: Address any water intrusion immediately
+- [ ] Monitor for symptom recurrence
+- [ ] Check problem areas weekly for moisture
+- [ ] Run dehumidifier if humidity > 50%
+- [ ] Maintain good ventilation
+- [ ] Address any water intrusion immediately
 
 ### Ongoing Maintenance
 
-- :material-checkbox-blank-outline: Monthly visual inspection of previous problem areas
-- :material-checkbox-blank-outline: Humidity monitor in previously affected areas (keep < 50%)
-- :material-checkbox-blank-outline: Annual HVAC inspection and cleaning
-- :material-checkbox-blank-outline: Immediate attention to any leaks or water intrusion
-- :material-checkbox-blank-outline: Consider quarterly air quality testing first year
+- [ ] Monthly visual inspection of previous problem areas
+- [ ] Humidity monitor in previously affected areas (keep < 50%)
+- [ ] Annual HVAC inspection and cleaning
+- [ ] Immediate attention to any leaks or water intrusion
+- [ ] Consider quarterly air quality testing first year
 
 ---
 
 ## Small-Scale Cleanup Guidelines
 
 **Only appropriate if:**
+
 - Less than 10 square feet of mold
 - Non-toxic species (not black mold)
 - On non-porous surface (tile, glass, metal)
@@ -259,13 +270,15 @@ This prevents conflicts of interest.
 ### If You Must DIY (Small Areas Only)
 
 **Protection:**
-- :material-checkbox-blank-outline: N95 respirator (minimum)
-- :material-checkbox-blank-outline: Disposable gloves
-- :material-checkbox-blank-outline: Eye protection
-- :material-checkbox-blank-outline: Long sleeves and pants
-- :material-checkbox-blank-outline: Work in well-ventilated area
+
+- [ ] N95 respirator (minimum)
+- [ ] Disposable gloves
+- [ ] Eye protection
+- [ ] Long sleeves and pants
+- [ ] Work in well-ventilated area
 
 **Process:**
+
 1. Isolate area (close doors, seal vents)
 2. Dampen moldy surface (prevents spore release)
 3. Clean with soap and water or diluted bleach (1 cup per gallon)
@@ -274,9 +287,10 @@ This prevents conflicts of interest.
 6. Shower and wash clothes immediately after
 
 **After Cleanup:**
-- :material-checkbox-blank-outline: Monitor for recurrence
-- :material-checkbox-blank-outline: Address moisture source
-- :material-checkbox-blank-outline: Consider professional testing to verify
+
+- [ ] Monitor for recurrence
+- [ ] Address moisture source
+- [ ] Consider professional testing to verify
 
 !!! warning "When DIY Isn't Appropriate"
     If you feel worse after cleanup, or if mold returns within weeks, you likely have a larger problem requiring professional assessment. Stop DIY efforts and call a certified inspector.
