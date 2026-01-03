@@ -1,5 +1,7 @@
 # Meal Planning Guide
 
+![Meal planning saves time and money!](../images/meal-planning.png){ align=right width=50% }
+
 Anti-inflammatory eating made practical. Weekly prep checklists, sample menus, and shopping lists.
 
 !!! tip "The Sunday Investment"
@@ -13,58 +15,58 @@ Anti-inflammatory eating made practical. Weekly prep checklists, sample menus, a
 
 **2:00 PM — Start Bone Broth**
 
-- :material-checkbox-blank-outline: Place bones in slow cooker (chicken carcasses, beef bones, or both)
-- :material-checkbox-blank-outline: Add rough-chopped vegetables: celery, carrots, onion, garlic
-- :material-checkbox-blank-outline: Add 2 tbsp apple cider vinegar (helps extract minerals)
-- :material-checkbox-blank-outline: Cover with water, set on low for 24 hours
+- [ ] Place bones in slow cooker (chicken carcasses, beef bones, or both)
+- [ ] Add rough-chopped vegetables: celery, carrots, onion, garlic
+- [ ] Add 2 tbsp apple cider vinegar (helps extract minerals)
+- [ ] Cover with water, set on low for 24 hours
 
 **2:15 PM — Prep Vegetables**
 
-- :material-checkbox-blank-outline: Wash all produce for the week
-- :material-checkbox-blank-outline: Cut vegetables for roasting (3 sheet pans worth):
+- [ ] Wash all produce for the week
+- [ ] Cut vegetables for roasting (3 sheet pans worth):
     - Broccoli florets
     - Brussels sprouts (halved)
     - Sweet potatoes (cubed)
     - Red onion (wedged)
     - Any other favorites
-- :material-checkbox-blank-outline: Portion salad greens into containers
-- :material-checkbox-blank-outline: Prep raw vegetables for snacking (carrots, celery, bell peppers)
+- [ ] Portion salad greens into containers
+- [ ] Prep raw vegetables for snacking (carrots, celery, bell peppers)
 
 **2:30 PM — Cook Proteins**
 
-- :material-checkbox-blank-outline: Season chicken breasts (olive oil, salt, pepper, garlic powder)
-- :material-checkbox-blank-outline: Grill or bake chicken (6+ lbs for the week)
-- :material-checkbox-blank-outline: Season salmon fillets
-- :material-checkbox-blank-outline: Grill or bake salmon (2-3 lbs)
-- :material-checkbox-blank-outline: Brown ground beef with onions and garlic (3 lbs)
-- :material-checkbox-blank-outline: Let proteins rest, then slice/portion
+- [ ] Season chicken breasts (olive oil, salt, pepper, garlic powder)
+- [ ] Grill or bake chicken (6+ lbs for the week)
+- [ ] Season salmon fillets
+- [ ] Grill or bake salmon (2-3 lbs)
+- [ ] Brown ground beef with onions and garlic (3 lbs)
+- [ ] Let proteins rest, then slice/portion
 
 **3:00 PM — Roast Vegetables**
 
-- :material-checkbox-blank-outline: Toss prepped vegetables with olive oil and sea salt
-- :material-checkbox-blank-outline: Spread on sheet pans (don't overcrowd)
-- :material-checkbox-blank-outline: Roast at 425°F for 25-35 minutes, stirring once
-- :material-checkbox-blank-outline: Let cool before portioning
+- [ ] Toss prepped vegetables with olive oil and sea salt
+- [ ] Spread on sheet pans (don't overcrowd)
+- [ ] Roast at 425°F for 25-35 minutes, stirring once
+- [ ] Let cool before portioning
 
 **3:45 PM — Eggs and Extras**
 
-- :material-checkbox-blank-outline: Hard-boil eggs (12-18 for the week)
-- :material-checkbox-blank-outline: Make golden milk concentrate (store in fridge)
-- :material-checkbox-blank-outline: Prep any sauces or dressings
+- [ ] Hard-boil eggs (12-18 for the week)
+- [ ] Make golden milk concentrate (store in fridge)
+- [ ] Prep any sauces or dressings
 
 **4:00 PM — Portion and Store**
 
-- :material-checkbox-blank-outline: Divide proteins into meal-sized portions
-- :material-checkbox-blank-outline: Divide roasted vegetables into containers
-- :material-checkbox-blank-outline: Label containers with contents and date
-- :material-checkbox-blank-outline: Arrange in fridge for easy grab-and-go
+- [ ] Divide proteins into meal-sized portions
+- [ ] Divide roasted vegetables into containers
+- [ ] Label containers with contents and date
+- [ ] Arrange in fridge for easy grab-and-go
 
 **Monday 2:00 PM — Finish Bone Broth**
 
-- :material-checkbox-blank-outline: Strain broth through fine mesh strainer
-- :material-checkbox-blank-outline: Discard solids
-- :material-checkbox-blank-outline: Pour into mason jars (leave 1" headspace if freezing)
-- :material-checkbox-blank-outline: Refrigerate or freeze
+- [ ] Strain broth through fine mesh strainer
+- [ ] Discard solids
+- [ ] Pour into mason jars (leave 1" headspace if freezing)
+- [ ] Refrigerate or freeze
 
 ---
 
@@ -77,7 +79,7 @@ Anti-inflammatory eating made practical. Weekly prep checklists, sample menus, a
 - Sautéed oyster/shiitake mushrooms
 - Handful of spinach or greens
 - 1/2 avocado
-- Mushroom coffee (lion's mane + cordyceps)
+- Mushroom coffee ([lion's mane](../protocols/mushrooms.md#lions-mane-the-brain-mushroom) + [cordyceps](../protocols/mushrooms.md#cordyceps-the-energy-mushroom))
 
 **Option B: Simple Plate**
 - 2-3 hard-boiled eggs
@@ -157,6 +159,9 @@ Anti-inflammatory eating made practical. Weekly prep checklists, sample menus, a
 □ Maitake (if available) — 4 oz
 □ Lion's mane (if available) — 4 oz
 ```
+
+!!! tip "Why These Mushrooms?"
+    These culinary mushrooms are also medicinal. Lion's mane supports brain health and nerve regeneration; maitake and shiitake modulate immune function. See [Medicinal Mushrooms](../protocols/mushrooms.md) for therapeutic dosing and supplement forms.
 
 ### Pantry Staples (Monthly Restock)
 

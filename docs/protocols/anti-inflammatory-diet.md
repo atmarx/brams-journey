@@ -6,7 +6,6 @@
 
 ---
 
-![Comparison of inflammatory vs anti-inflammatory foods](../images/inflammatory-vs-anti-inflammatory-foods.png)
 
 ## Why Diet Matters
 
@@ -130,6 +129,8 @@ An apple was *sweet*. Like, actually, naturally sweet. Chicken had *flavor* with
 ## Phase 2: Addition (Weeks 4–12)
 
 Once inflammatory foods are out, add targeted healing foods.
+
+![Meal planning saves time and money!](../images/meal-planning.png){ align=right width=50% }
 
 ### Fatty Fish: Omega-3 Powerhouse
 
@@ -301,6 +302,9 @@ One cooking session = meals for the week.
 **Investment:** $60–80 for organic, high-quality ingredients
 
 **Return:** Energy, reduced pain, faster healing, mental clarity
+
+!!! tip "Need More Structure?"
+    For detailed meal plans, shopping lists, and batch cooking schedules, see the [Meal Planning Guide](../resources/meal-planning.md).
 
 ---
 

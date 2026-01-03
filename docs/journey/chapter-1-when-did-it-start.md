@@ -46,6 +46,9 @@ The pharmacy clerk at the CVS near his house knew his face by week three.
 
 *I'll be fine.* The universal lie we tell ourselves when we're decidedly not fine but can't face that truth yet.
 
+!!! info "What Bram Didn't Know Yet"
+    Chronic NSAID use carries real risks—stomach ulcers, kidney damage, cardiovascular issues. But there are effective natural alternatives for inflammation that Bram would eventually discover: [curcumin](../protocols/supplements.md#curcumin-natures-anti-inflammatory), [omega-3 fatty acids](../protocols/supplements.md#omega-3-fatty-acids), and for some, [CBD](../protocols/cannabis.md). These weren't on his radar yet—they seemed like "alternative medicine" nonsense. He'd learn differently.
+
 ### The Adaptation Begins
 
 The human body is brilliantly adaptive. When one system fails, others compensate. When movement hurts, the nervous system finds workarounds, new motor patterns that distribute load away from damaged areas.

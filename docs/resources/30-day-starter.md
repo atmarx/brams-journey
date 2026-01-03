@@ -13,20 +13,20 @@ For those overwhelmed by the full content, here's where to start. Four weeks of 
 
 ### Environment
 
-- :material-checkbox-blank-outline: Walk through your home. Note any musty smells or visible water damage.
-- :material-checkbox-blank-outline: If you see mold or smell must, don't wait—schedule a professional inspection.
-- :material-checkbox-blank-outline: Check obvious problem areas: bathroom, under sinks, basement, around windows.
+- [ ] Walk through your home. Note any musty smells or visible water damage.
+- [ ] If you see mold or smell must, don't wait—schedule a professional inspection.
+- [ ] Check obvious problem areas: bathroom, under sinks, basement, around windows.
 
 ### Diet (Elimination)
 
-- :material-checkbox-blank-outline: **Eliminate:** Processed foods, added sugar, fast food
-- :material-checkbox-blank-outline: **Add:** Vegetables at every meal
-- :material-checkbox-blank-outline: **Hydrate:** Half your body weight in ounces of water daily (200 lb = 100 oz)
+- [ ] **Eliminate:** Processed foods, added sugar, fast food
+- [ ] **Add:** Vegetables at every meal
+- [ ] **Hydrate:** Half your body weight in ounces of water daily (200 lb = 100 oz)[^hydration]
 
 ### Movement (Just Two Stretches)
 
-- :material-checkbox-blank-outline: **Morning:** Cat-Cow (60 seconds) + Legs Up Wall (5 min)
-- :material-checkbox-blank-outline: **Evening:** Cat-Cow (60 seconds) + Legs Up Wall (5 min)
+- [ ] **Morning:** [Cat-Cow](../exercises/cat-cow.md) (60 seconds) + [Legs Up Wall](../exercises/legs-up-wall.md) (5 min)
+- [ ] **Evening:** [Cat-Cow](../exercises/cat-cow.md) (60 seconds) + [Legs Up Wall](../exercises/legs-up-wall.md) (5 min)
 
 That's it. Ten minutes total per day.
 
@@ -49,21 +49,21 @@ Start a simple journal:
 
 ### Diet (Addition)
 
-- :material-checkbox-blank-outline: Add fatty fish 2-3x this week (salmon, sardines, mackerel)
-- :material-checkbox-blank-outline: Add turmeric + black pepper to one meal daily
-- :material-checkbox-blank-outline: Add ginger (fresh or powdered) to one meal daily
+- [ ] Add fatty fish 2-3x this week (salmon, sardines, mackerel)
+- [ ] Add turmeric + black pepper to one meal daily
+- [ ] Add ginger (fresh or powdered) to one meal daily
 
 ### Movement (Add Two More Stretches)
 
-- :material-checkbox-blank-outline: **Add:** Hip Flexor Stretch (90 sec each side)
-- :material-checkbox-blank-outline: **Add:** Doorway Pec Stretch (60 sec each side, one position only)
+- [ ] **Add:** [Hip Flexor Stretch](../exercises/hip-flexor-stretch.md) (90 sec each side)
+- [ ] **Add:** [Doorway Pec Stretch](../exercises/doorway-pec-stretch.md) (60 sec each side, one position only)
 
 Total stretching time: ~15 minutes per day
 
 ### Supplements (Start Core)
 
-- :material-checkbox-blank-outline: **Omega-3 fish oil:** 2-3g daily with food
-- :material-checkbox-blank-outline: That's the only supplement this week
+- [ ] **Omega-3 fish oil:** 2-3g daily with food
+- [ ] That's the only supplement this week
 
 ---
 
@@ -73,27 +73,27 @@ Total stretching time: ~15 minutes per day
 
 ### Diet (Trial Elimination)
 
-- :material-checkbox-blank-outline: **Eliminate gluten** completely for 2 weeks (trial)
-- :material-checkbox-blank-outline: **Eliminate dairy** completely for 2 weeks (trial)
-- :material-checkbox-blank-outline: Note any changes in symptoms
+- [ ] **Eliminate gluten** completely for 2 weeks (trial)
+- [ ] **Eliminate dairy** completely for 2 weeks (trial)
+- [ ] Note any changes in symptoms
 
 ### Movement (Add Two More Stretches)
 
-- :material-checkbox-blank-outline: **Add:** 90/90 Hip Stretch (2 min each side)
-- :material-checkbox-blank-outline: **Add:** Supine Spinal Twist (2 min each side)
+- [ ] **Add:** [90/90 Hip Stretch](../exercises/90-90-hip-stretch.md) (2 min each side)
+- [ ] **Add:** [Supine Spinal Twist](../exercises/supine-spinal-twist.md) (2 min each side)
 
 Total stretching time: ~20 minutes per day
 
 ### Supplements (Add Core)
 
-- :material-checkbox-blank-outline: **Continue:** Omega-3
-- :material-checkbox-blank-outline: **Add:** Vitamin D3 (5,000 IU with breakfast)
-- :material-checkbox-blank-outline: **Add:** Magnesium glycinate (400mg before bed)
+- [ ] **Continue:** Omega-3
+- [ ] **Add:** Vitamin D3 (5,000 IU with breakfast)
+- [ ] **Add:** Magnesium glycinate (400mg before bed)
 
 ### Work Integration
 
-- :material-checkbox-blank-outline: **Add one Invisible Exercise:** Glute squeezes every hour at work
-- :material-checkbox-blank-outline: Set a phone timer as reminder
+- [ ] **Add one [Invisible Exercise](../exercises/invisible-8.md):** [Glute squeezes](../exercises/glute-squeezes.md) every hour at work
+- [ ] Set a phone timer as reminder
 
 ---
 
@@ -103,33 +103,33 @@ Total stretching time: ~20 minutes per day
 
 ### Diet (Systematize)
 
-- :material-checkbox-blank-outline: **Sunday meal prep:** 2-3 hours preparing week's food
-- :material-checkbox-blank-outline: Make bone broth (slow cooker, 24 hours)
-- :material-checkbox-blank-outline: Grill/roast proteins for the week
-- :material-checkbox-blank-outline: Prep vegetables for easy cooking
+- [ ] **Sunday meal prep:** 2-3 hours preparing week's food
+- [ ] Make bone broth (slow cooker, 24 hours)
+- [ ] Grill/roast proteins for the week
+- [ ] Prep vegetables for easy cooking
 
 ### Movement (Complete Daily 8)
 
-- :material-checkbox-blank-outline: Morning: Abbreviated routine (15 min)
-- :material-checkbox-blank-outline: Evening: Full Daily 8 routine (20 min)
+- [ ] Morning: Abbreviated routine (15 min)
+- [ ] Evening: Full Daily 8 routine (20 min)
 
 ### Supplements (Complete Core Four)
 
-- :material-checkbox-blank-outline: **Continue:** Omega-3, Vitamin D, Magnesium
-- :material-checkbox-blank-outline: **Add:** Curcumin (1,000mg twice daily with food)
+- [ ] **Continue:** Omega-3, Vitamin D, Magnesium
+- [ ] **Add:** Curcumin (1,000mg twice daily with food)
 
 ### Work Integration (Build the Habit)
 
-- :material-checkbox-blank-outline: Timer every 90 minutes for Invisible Exercises
-- :material-checkbox-blank-outline: Rotate through: glutes, neck retractions, shoulder blade squeezes
-- :material-checkbox-blank-outline: Each break: 60-90 seconds
+- [ ] Timer every 90 minutes for [Invisible Exercises](../exercises/invisible-8.md)
+- [ ] Rotate through: [glute squeezes](../exercises/glute-squeezes.md), [neck retractions](../exercises/neck-retractions.md), [shoulder blade squeezes](../exercises/shoulder-blade-squeezes.md)
+- [ ] Each break: 60-90 seconds
 
 ### Optional Additions
 
 If going well and budget allows:
 
-- :material-checkbox-blank-outline: **CBD oil:** 25mg morning, 25mg evening (for inflammation)
-- :material-checkbox-blank-outline: **Reishi tincture:** 2ml before bed (for sleep/immune support)
+- [ ] **CBD oil:** 25mg morning, 25mg evening (for inflammation)
+- [ ] **Reishi tincture:** 2ml before bed (for sleep/immune support)
 
 ---
 
@@ -149,11 +149,11 @@ At the end of 30 days, assess these markers:
 
 ### Subjective Assessment
 
-- :material-checkbox-blank-outline: Do I have more good days than bad days?
-- :material-checkbox-blank-outline: Is my pain trending down?
-- :material-checkbox-blank-outline: Am I sleeping better?
-- :material-checkbox-blank-outline: Do I have more energy?
-- :material-checkbox-blank-outline: Are my joints less stiff?
+- [ ] Do I have more good days than bad days?
+- [ ] Is my pain trending down?
+- [ ] Am I sleeping better?
+- [ ] Do I have more energy?
+- [ ] Are my joints less stiff?
 
 ### Decision Points
 
@@ -210,10 +210,10 @@ At the end of 30 days, assess these markers:
 
 ### Continue Building
 
-- Add remaining Daily 8 stretches to full proficiency
-- Add more Invisible Exercises at work
-- Expand anti-inflammatory foods
-- Consider additional supplements based on testing
+- Add remaining [Daily 8](../exercises/daily-8.md) stretches to full proficiency
+- Add more [Invisible Exercises](../exercises/invisible-8.md) at work
+- Expand [anti-inflammatory foods](../protocols/anti-inflammatory-diet.md)
+- Consider additional [supplements](../protocols/supplements.md) based on testing
 
 ### Go Deeper
 
@@ -309,5 +309,7 @@ Work:
 ```
 
 ---
+
+[^hydration]: The "half your body weight in ounces" formula is a general guideline that works for most people under moderate conditions. Actual hydration needs vary based on activity level, climate, medication use, and individual physiology. Athletes, those in hot climates, or those taking diuretic medications may need significantly more. Signs of adequate hydration: pale yellow urine, regular urination (every 2-4 hours), and no persistent thirst. See: Popkin BM, et al. "Water, hydration, and health." [*Nutr Rev*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908954/) 2010;68(8):439-458.
 
 *Continue to [Tracking Templates](tracking-templates.md) or return to [Resources](index.md)*

@@ -13,59 +13,93 @@ Use this template daily, ideally at the same time each day (evening works well f
 
 ### Template
 
-```
-DATE: _____________
+!!! abstract "Daily Symptom Journal"
 
-MORNING STIFFNESS
-Duration: _______ minutes
-Severity (0-10): _______
-Locations: _______________________________
+    **Date:** <span class="blank-wide"></span>
 
-PAIN LEVELS (0-10)
-Morning: _______
-Afternoon: _______
-Evening: _______
-Average: _______
-Worst moment: _______________________________
+    #### :material-weather-sunny: Morning Stiffness
 
-SLEEP (Previous Night)
-Hours: _______
-Quality (0-10): _______
-Times woken: _______
-Notes: _______________________________
+    | Metric | Value |
+    |--------| ------- |
+    | Duration (minutes) | |
+    | Severity (0-10) | |
+    | Locations | |
 
-ENERGY (0-10)
-Morning: _______
-Afternoon: _______
-Evening: _______
-Overall: _______
+    #### :material-lightning-bolt: Pain Levels (0-10)
 
-EXERCISE COMPLETED
-□ Morning stretches (Daily 8)
-□ Evening stretches (Daily 8)  
-□ Invisible exercises at work
-Notes: _______________________________
+    | Time | Level | Notes |
+    |------|-------|-------|
+    | Morning | <span class="blank"></span>/10 | |
+    | Afternoon | <span class="blank"></span>/10 | |
+    | Evening | <span class="blank"></span>/10 | |
+    | **Average** | <span class="blank"></span>/10 | |
 
-DIET
-On protocol: □ Yes □ Mostly □ No
-Cheats/deviations: _______________________________
-Water intake: _______ oz
+    Worst moment:
 
-SUPPLEMENTS
-All taken: □ Yes □ Partial □ No
-Missed: _______________________________
+    ---
 
-CANNABIS/CBD (if applicable)
-Morning CBD: _______ mg
-Evening CBD: _______ mg
-Evening THC: _______ mg
-Effects noted: _______________________________
+    #### :material-bed: Sleep (Previous Night)
 
-NOTES/OBSERVATIONS
-What went well: _______________________________
-Challenges: _______________________________
-Patterns noticed: _______________________________
-```
+    | Metric | Value |
+    |--------|-------|
+    | Hours | |
+    | Quality | <span class="blank"></span>/10 |
+    | Times woken | |
+
+    Notes: <span class="blank-wide"></span>
+
+    #### :material-battery-charging: Energy (0-10)
+
+    | Morning | Afternoon | Evening | Overall |
+    |:-------:|:---------:|:-------:|:-------:|
+    | <span class="blank"></span>/10 | <span class="blank"></span>/10 | <span class="blank"></span>/10 | <span class="blank"></span>/10 |
+
+    ---
+
+    #### :material-yoga: Exercise Completed
+
+    - [ ] Morning stretches (Daily 8)
+    - [ ] Evening stretches (Daily 8)
+    - [ ] Invisible exercises at work
+
+    Notes: <span class="blank-wide"></span>
+
+    #### :material-food-apple: Diet
+
+    | Metric | Status |
+    |--------|--------|
+    | On protocol | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Mostly :material-checkbox-blank-outline: No |
+    | Cheats/deviations | |
+    | Water intake | oz |
+
+    #### :material-pill: Supplements
+
+    | Metric | Status |
+    |--------|--------|
+    | All taken | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Partial :material-checkbox-blank-outline: No |
+    | Missed | |
+
+    ---
+
+    ??? tip "Cannabis/CBD (if applicable)"
+
+        | Dose | Amount |
+        |------|--------|
+        | Morning CBD | mg |
+        | Evening CBD | mg |
+        | Evening THC | mg |
+
+        Effects noted: <span class="blank-wide"></span>
+
+    ---
+
+    #### :material-note-text: Notes & Observations
+
+    | Category | Entry |
+    |----------|-------|
+    | :material-check-circle: What went well | |
+    | :material-alert-circle: Challenges | |
+    | :material-chart-line: Patterns noticed | |
 
 ---
 
@@ -75,60 +109,90 @@ Complete every Sunday to see patterns and trends.
 
 ### Template
 
-```
-WEEK OF: _____________ to _____________
+!!! abstract "Weekly Progress Review"
 
-PAIN
-Average daily pain this week: _______/10
-Best day: _______ (______/10)
-Worst day: _______ (______/10)
-Trend vs. last week: □ Better □ Same □ Worse
+    **Week of:** <span class="blank-wide"></span> to <span class="blank-wide"></span>
 
-MORNING STIFFNESS
-Average duration: _______ minutes
-Trend vs. last week: □ Better □ Same □ Worse
+    #### :material-lightning-bolt: Pain
 
-SLEEP
-Average hours: _______
-Average quality: _______/10
-Trend vs. last week: □ Better □ Same □ Worse
+    | Metric | Value |
+    |--------|-------|
+    | Average daily pain | <span class="blank"></span>/10 |
+    | Best day | <span class="blank"></span>/10 |
+    | Worst day | <span class="blank"></span>/10 |
+    | Trend vs. last week | :material-checkbox-blank-outline: Better :material-checkbox-blank-outline: Same :material-checkbox-blank-outline: Worse |
 
-ENERGY
-Average daily energy: _______/10
-Trend vs. last week: □ Better □ Same □ Worse
+    #### :material-weather-sunny: Morning Stiffness
 
-MOVEMENT COMPLIANCE
-Days with morning stretches: _______/7
-Days with evening stretches: _______/7
-Days with invisible exercises: _______/7
+    | Metric | Value |
+    |--------|-------|
+    | Average duration | minutes |
+    | Trend vs. last week | :material-checkbox-blank-outline: Better :material-checkbox-blank-outline: Same :material-checkbox-blank-outline: Worse |
 
-DIET COMPLIANCE
-Days fully on protocol: _______/7
-Major deviations: _______________________________
-Meal prep completed: □ Yes □ No
+    #### :material-bed: Sleep
 
-SUPPLEMENT COMPLIANCE
-Days with full supplements: _______/7
-Missed doses: _______________________________
+    | Metric | Value |
+    |--------|-------|
+    | Average hours | |
+    | Average quality | <span class="blank"></span>/10 |
+    | Trend vs. last week | :material-checkbox-blank-outline: Better :material-checkbox-blank-outline: Same :material-checkbox-blank-outline: Worse |
 
-WINS THIS WEEK
-1. _______________________________
-2. _______________________________
-3. _______________________________
+    #### :material-battery-charging: Energy
 
-CHALLENGES THIS WEEK
-1. _______________________________
-2. _______________________________
-3. _______________________________
+    | Metric | Value |
+    |--------|-------|
+    | Average daily energy | <span class="blank"></span>/10 |
+    | Trend vs. last week | :material-checkbox-blank-outline: Better :material-checkbox-blank-outline: Same :material-checkbox-blank-outline: Worse |
 
-ADJUSTMENTS FOR NEXT WEEK
-1. _______________________________
-2. _______________________________
+    ---
 
-NOTES
-_______________________________
-_______________________________
-```
+    #### :material-yoga: Movement Compliance
+
+    | Activity | Days |
+    |----------|------|
+    | Morning stretches | <span class="blank"></span>/7 |
+    | Evening stretches | <span class="blank"></span>/7 |
+    | Invisible exercises | <span class="blank"></span>/7 |
+
+    #### :material-food-apple: Diet Compliance
+
+    | Metric | Value |
+    |--------|-------|
+    | Days fully on protocol | <span class="blank"></span>/7 |
+    | Major deviations | |
+    | Meal prep completed | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: No |
+
+    #### :material-pill: Supplement Compliance
+
+    | Metric | Value |
+    |--------|-------|
+    | Days with full supplements | <span class="blank"></span>/7 |
+    | Missed doses | |
+
+    ---
+
+    #### :material-trophy: Wins This Week
+
+    1. <span class="blank-wide"></span>
+    2. <span class="blank-wide"></span>
+    3. <span class="blank-wide"></span>
+
+    #### :material-alert-circle: Challenges This Week
+
+    1. <span class="blank-wide"></span>
+    2. <span class="blank-wide"></span>
+    3. <span class="blank-wide"></span>
+
+    #### :material-arrow-right-bold: Adjustments for Next Week
+
+    1. <span class="blank-wide"></span>
+    2. <span class="blank-wide"></span>
+
+    #### :material-note-text: Notes
+
+    <span class="blank-wide"></span>
+
+    <span class="blank-wide"></span>
 
 ---
 
@@ -138,59 +202,82 @@ Complete at the end of each month for bigger-picture tracking.
 
 ### Template
 
-```
-MONTH: _____________
+!!! abstract "Monthly Assessment"
 
-SYMPTOM COMPARISON
-                    Month Start    Month End    Change
-Pain (0-10):        _______        _______      _______
-Stiffness (min):    _______        _______      _______
-Sleep quality:      _______        _______      _______
-Energy (0-10):      _______        _______      _______
+    **Month:** <span class="blank-wide"></span>
 
-FUNCTIONAL IMPROVEMENTS
-What can I do now that I couldn't do at month start?
-□ _______________________________
-□ _______________________________
-□ _______________________________
+    #### :material-chart-line: Symptom Comparison
 
-PROTOCOL COMPLIANCE
-Overall diet compliance: _______%
-Overall supplement compliance: _______%
-Overall exercise compliance: _______%
+    | Metric | Month Start | Month End | Change |
+    |--------|:-----------:|:---------:|:------:|
+    | Pain (0-10) | <span class="blank"></span>/10 | <span class="blank"></span>/10 | <span class="blank"></span>/10 |
+    | Stiffness (min) | | | |
+    | Sleep quality | | | |
+    | Energy (0-10) | <span class="blank"></span>/10 | <span class="blank"></span>/10 | <span class="blank"></span>/10 |
 
-BLOODWORK (if done this month)
-CRP: _______ (goal: <3.0)
-[ESR](https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate): _______ (goal: <15)
-Vitamin D: _______ (goal: 50-70)
-Other: _______________________________
+    #### :material-arm-flex: Functional Improvements
 
-BODY COMPOSITION (if tracking)
-Weight: _______
-Notable changes: _______________________________
+    What can I do now that I couldn't do at month start?
 
-MAJOR WINS
-1. _______________________________
-2. _______________________________
-3. _______________________________
+    - [ ] <span class="blank-wide"></span>
+    - [ ] <span class="blank-wide"></span>
+    - [ ] <span class="blank-wide"></span>
 
-ONGOING CHALLENGES
-1. _______________________________
-2. _______________________________
+    #### :material-check-all: Protocol Compliance
 
-PROTOCOL ADJUSTMENTS MADE
-_______________________________
-_______________________________
+    | Protocol | Compliance |
+    |----------|------------|
+    | Diet | <span class="blank"></span>% |
+    | Supplements | <span class="blank"></span>% |
+    | Exercise | <span class="blank"></span>% |
 
-GOALS FOR NEXT MONTH
-1. _______________________________
-2. _______________________________
-3. _______________________________
+    ---
 
-QUESTIONS FOR HEALTHCARE PROVIDER
-1. _______________________________
-2. _______________________________
-```
+    ??? tip "Bloodwork (if done this month)"
+
+        | Marker | Result | Goal |
+        |--------|--------|------|
+        | CRP | | <3.0 |
+        | [ESR](https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate) | | <15 |
+        | Vitamin D | | 50-70 |
+        | Other | | |
+
+    ??? tip "Body Composition (if tracking)"
+
+        | Metric | Value |
+        |--------|-------|
+        | Weight | |
+        | Notable changes | |
+
+    ---
+
+    #### :material-trophy: Major Wins
+
+    1. <span class="blank-wide"></span>
+    2. <span class="blank-wide"></span>
+    3. <span class="blank-wide"></span>
+
+    #### :material-alert-circle: Ongoing Challenges
+
+    1. <span class="blank-wide"></span>
+    2. <span class="blank-wide"></span>
+
+    #### :material-wrench: Protocol Adjustments Made
+
+    <span class="blank-wide"></span>
+
+    <span class="blank-wide"></span>
+
+    #### :material-target: Goals for Next Month
+
+    1. <span class="blank-wide"></span>
+    2. <span class="blank-wide"></span>
+    3. <span class="blank-wide"></span>
+
+    #### :material-doctor: Questions for Healthcare Provider
+
+    1. <span class="blank-wide"></span>
+    2. <span class="blank-wide"></span>
 
 ---
 
@@ -200,51 +287,73 @@ Use this when trying to identify food triggers or when reintroducing eliminated 
 
 ### Template
 
-```
-DATE: _____________
+!!! abstract "Food & Symptom Correlation Tracker"
 
-FOOD/SUBSTANCE BEING TESTED: _____________
-Amount consumed: _____________
-Time consumed: _____________
+    **Date:** <span class="blank-wide"></span>
 
-BASELINE (before consuming)
-Pain: _______/10
-Energy: _______/10
-Mental clarity: _______/10
-Digestive status: _______________________________
+    #### :material-food-fork-drink: Test Details
 
-+30 MINUTES
-Changes noted: _______________________________
+    | Field | Value |
+    |-------|-------|
+    | Food/substance being tested | |
+    | Amount consumed | |
+    | Time consumed | |
 
-+2 HOURS
-Pain: _______/10
-Energy: _______/10
-Mental clarity: _______/10
-Digestive status: _______________________________
-Other symptoms: _______________________________
+    ---
 
-+6 HOURS
-Pain: _______/10
-Energy: _______/10
-Mental clarity: _______/10
-Digestive status: _______________________________
-Other symptoms: _______________________________
+    #### :material-clipboard-check: Baseline (before consuming)
 
-NEXT MORNING
-Pain: _______/10
-Morning stiffness: _______ minutes
-Sleep quality: _______/10
-Energy: _______/10
-Other symptoms: _______________________________
+    | Metric | Value |
+    |--------|-------|
+    | Pain | <span class="blank"></span>/10 |
+    | Energy | <span class="blank"></span>/10 |
+    | Mental clarity | <span class="blank"></span>/10 |
+    | Digestive status | |
 
-CONCLUSION
-□ No reaction - safe to include
-□ Mild reaction - limit quantity/frequency
-□ Significant reaction - eliminate
-□ Need to test again to confirm
+    #### :material-timer-sand: +30 Minutes
 
-Notes: _______________________________
-```
+    Changes noted: <span class="blank-wide"></span>
+
+    #### :material-clock-time-two: +2 Hours
+
+    | Metric | Value |
+    |--------|-------|
+    | Pain | <span class="blank"></span>/10 |
+    | Energy | <span class="blank"></span>/10 |
+    | Mental clarity | <span class="blank"></span>/10 |
+    | Digestive status | |
+    | Other symptoms | |
+
+    #### :material-clock-time-six: +6 Hours
+
+    | Metric | Value |
+    |--------|-------|
+    | Pain | <span class="blank"></span>/10 |
+    | Energy | <span class="blank"></span>/10 |
+    | Mental clarity | <span class="blank"></span>/10 |
+    | Digestive status | |
+    | Other symptoms | |
+
+    #### :material-weather-sunny: Next Morning
+
+    | Metric | Value |
+    |--------|-------|
+    | Pain | <span class="blank"></span>/10 |
+    | Morning stiffness | <span class="blank"></span> minutes |
+    | Sleep quality | <span class="blank"></span>/10 |
+    | Energy | <span class="blank"></span>/10 |
+    | Other symptoms | |
+
+    ---
+
+    #### :material-check-decagram: Conclusion
+
+    - [ ] No reaction — safe to include
+    - [ ] Mild reaction — limit quantity/frequency
+    - [ ] Significant reaction — eliminate
+    - [ ] Need to test again to confirm
+
+    **Notes:** <span class="blank-wide"></span>
 
 ---
 
@@ -254,59 +363,83 @@ Track improvements in flexibility and strength over time.
 
 ### Daily 8 Progress (Monthly Check)
 
-```
-DATE: _____________
+!!! abstract "Daily 8 Progress"
 
-CAT-COW
-Spinal mobility (1-10): _______
-Can feel individual vertebrae: □ Yes □ Somewhat □ No
+    **Date:** <span class="blank-wide"></span>
 
-CHILD'S POSE
-Hips to heels: □ Full □ 75% □ 50% □ <50%
-Forehead to floor: □ Yes □ With support □ No
+    #### :material-cat: Cat-Cow
 
-90/90 HIP STRETCH  
-Can sit in position: □ Flat □ Elevated ___"
-Forward fold depth: _______
+    | Assessment | Response |
+    |------------|----------|
+    | Spinal mobility (1-10) | <span class="blank"></span>/10 |
+    | Can feel individual vertebrae | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Somewhat :material-checkbox-blank-outline: No |
 
-HIP FLEXOR STRETCH
-Can maintain pelvic tuck: □ Yes □ Mostly □ No
-Hold duration comfortable: _______ seconds
+    #### :material-human-child: Child's Pose
 
-DOORWAY PEC STRETCH
-Positions completed: □ Low □ Mid □ High
-Shoulder stays down: □ Yes □ Mostly □ No
+    | Assessment | Response |
+    |------------|----------|
+    | Hips to heels | :material-checkbox-blank-outline: Full :material-checkbox-blank-outline: 75% :material-checkbox-blank-outline: 50% :material-checkbox-blank-outline: <50% |
+    | Forehead to floor | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: With support :material-checkbox-blank-outline: No |
 
-SPINAL TWIST
-Knee to floor: □ Yes □ Close □ Far
-Shoulder stays down: □ Yes □ Mostly □ No
+    #### :material-human: 90/90 Hip Stretch
 
-CALF/HAMSTRING
-Calf stretch distance from wall: _______ inches
-Hamstring: foot height on wall: _______ inches
+    | Assessment | Response |
+    |------------|----------|
+    | Can sit in position | :material-checkbox-blank-outline: Flat :material-checkbox-blank-outline: Elevated " |
+    | Forward fold depth | |
 
-LEGS UP WALL
-Can stay comfortably: _______ minutes
-Legs straight: □ Yes □ Slightly bent □ Bent
-```
+    #### :material-yoga: Hip Flexor Stretch
+
+    | Assessment | Response |
+    |------------|----------|
+    | Can maintain pelvic tuck | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Mostly :material-checkbox-blank-outline: No |
+    | Hold duration comfortable | seconds |
+
+    #### :material-door: Doorway Pec Stretch
+
+    | Assessment | Response |
+    |------------|----------|
+    | Positions completed | :material-checkbox-blank-outline: Low :material-checkbox-blank-outline: Mid :material-checkbox-blank-outline: High |
+    | Shoulder stays down | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Mostly :material-checkbox-blank-outline: No |
+
+    #### :material-rotate-right: Spinal Twist
+
+    | Assessment | Response |
+    |------------|----------|
+    | Knee to floor | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Close :material-checkbox-blank-outline: Far |
+    | Shoulder stays down | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Mostly :material-checkbox-blank-outline: No |
+
+    #### :material-shoe-print: Calf/Hamstring
+
+    | Assessment | Response |
+    |------------|----------|
+    | Calf stretch distance from wall | <span class="blank"></span> inches |
+    | Hamstring: foot height on wall | <span class="blank"></span> inches |
+
+    #### :material-wall: Legs Up Wall
+
+    | Assessment | Response |
+    |------------|----------|
+    | Can stay comfortably | <span class="blank"></span> minutes |
+    | Legs straight | :material-checkbox-blank-outline: Yes :material-checkbox-blank-outline: Slightly bent :material-checkbox-blank-outline: Bent |
 
 ### Invisible 8 Habit Tracker
 
-```
-WEEK OF: _____________
+!!! abstract "Invisible 8 Weekly Tracker"
 
-                    Mon  Tue  Wed  Thu  Fri  Sat  Sun
-Stomach Vacuum      □    □    □    □    □    □    □
-Calf Raises         □    □    □    □    □    □    □
-Scapular Slides     □    □    □    □    □    □    □
-Glute Squeezes      □    □    □    □    □    □    □
-Neck Retractions    □    □    □    □    □    □    □
-Shoulder Blade Sq.  □    □    □    □    □    □    □
-Hip Circles         □    □    □    □    □    □    □
-Wrist Circles       □    □    □    □    □    □    □
+    **Week of:** <span class="blank-wide"></span>
 
-Daily Total:        __   __   __   __   __   __   __
-```
+    | Exercise | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+    |----------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    | Stomach Vacuum | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | Calf Raises | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | Scapular Slides | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | Glute Squeezes | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | Neck Retractions | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | Shoulder Blade Sq. | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | Hip Circles | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | Wrist Circles | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: | :material-checkbox-blank-outline: |
+    | **Daily Total** | | | | | | | |
 
 ---
 

@@ -80,6 +80,9 @@ His crew had adapted to his new rhythm. The 90-minute timer wasn't disruptive—
 - Started teaching weekend workshops on proper body mechanics for contractors
 - Rough-housed with Emma's boyfriend's nephew—got down on floor, played, stood up without help
 
+!!! tip "The Shoulder Recovery"
+    Bram's overhead work capacity returned through consistent [Doorway Pec Stretches](../exercises/doorway-pec-stretch.md), [Scapular Wall Slides](../exercises/scapular-wall-slides.md), and [Shoulder Blade Squeezes](../exercises/shoulder-blade-squeezes.md). The key was addressing the rounded-shoulder posture that years of forward-reaching work had created.
+
 ### Psychological Transformation
 
 The mental shift was perhaps more dramatic than the physical.

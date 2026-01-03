@@ -106,15 +106,15 @@ Bram felt something loosen in his chest—not quite hope, but maybe possibility.
 
 "Stachybotrys is black mold, right?"
 
-"That's the common name, yes. It's one of the most toxic species. The fact that you have elevated antibodies to it means you've been exposed, and your immune system has been fighting it."
+"That's the common name, yes. It's one of the most toxic species.[^stachybotrys] The fact that you have elevated antibodies to it means you've been exposed, and your immune system has been fighting it."
 
 ### Genetic Susceptibility
 
 | Test | Result and Meaning |
 |------|-------------------|
-| HLA-DR | Positive for 4-3-53 haplotype. Genetic inability to properly clear biotoxins; approximately 25% of population has this variant |
+| HLA-DR | Positive for 4-3-53 haplotype. Genetic inability to properly clear biotoxins; approximately 24% of population has susceptible variants[^hla-dr] |
 
-"This explains why you got so sick when maybe others wouldn't," Dr. Chen said. "About 25% of people have genetic variations in their [HLA-DR genes](https://en.wikipedia.org/wiki/HLA-DR) that make them unable to properly identify and clear biotoxins like [mycotoxins](https://en.wikipedia.org/wiki/Mycotoxin). Your body literally can't recognize these as foreign invaders efficiently enough to eliminate them."
+"This explains why you got so sick when maybe others wouldn't," Dr. Chen said. "About a quarter of people have genetic variations in their [HLA-DR genes](https://en.wikipedia.org/wiki/HLA-DR) that make them unable to properly identify and clear biotoxins like [mycotoxins](https://en.wikipedia.org/wiki/Mycotoxin). Your body literally can't recognize these as foreign invaders efficiently enough to eliminate them."
 
 "So the mold toxins just... stay in me?"
 
@@ -201,3 +201,7 @@ Bram felt the weight of that timeline. Six months to a year. But also: *there's 
 ---
 
 *Continue to [Chapter 5: The Home Inspection](chapter-5-the-home-inspection.md) or return to [Journey Home](index.md)*
+
+[^stachybotrys]: *Stachybotrys chartarum* produces trichothecene mycotoxins, which are among the most potent naturally occurring toxins. These mycotoxins can cause immunosuppression, inflammation, and cellular damage. See Pestka JJ. "Mechanisms of deoxynivalenol-induced gene expression and apoptosis." *Food Additives and Contaminants* 25.11 (2008): 1128-1140; and WHO guidelines on mycotoxin health effects.
+
+[^hla-dr]: The 24% figure comes from Dr. Ritchie Shoemaker's research identifying specific HLA-DR haplotypes (including 4-3-53, 11-3-52B, and others) that impair biotoxin clearance. Shoemaker RC, House DE. "A time-series study of sick building syndrome." *Neurotoxicology and Teratology* 28 (2006): 573-588. The exact prevalence varies by population and which haplotypes are included in the count.

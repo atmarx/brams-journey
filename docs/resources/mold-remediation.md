@@ -37,12 +37,14 @@ When to call professionals, what to look for, and verification steps to ensure y
 
 ### Required Certifications
 
-Look for at least one of:
+Look for at least one of:[^iicrc-s520]
 
 - [ ] **[IICRC](https://iicrc.org)** — Institute of Inspection, Cleaning and Restoration Certification
 - [ ] **[NORMI](https://normi.org)** — National Organization of Remediators and Mold Inspectors
 - [ ] **[ACAC](https://acac.org)** — American Council for Accredited Certification
 - [ ] **[RIA](https://restorationindustry.org)** — Restoration Industry Association
+
+[^iicrc-s520]: The IICRC S520 Standard for Professional Mold Remediation is the industry consensus document for mold remediation procedures. It establishes containment requirements, worker protection protocols, and clearance criteria. Many insurance companies and building codes reference this standard. The EPA's "Mold Remediation in Schools and Commercial Buildings" guide provides complementary federal guidance. See: [IICRC S520](https://iicrc.org/standards/iicrc-s520/) and [EPA Mold Remediation Guide](https://www.epa.gov/mold/mold-remediation-schools-and-commercial-buildings-guide).
 
 ### Questions to Ask
 

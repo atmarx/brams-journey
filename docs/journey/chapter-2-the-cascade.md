@@ -146,7 +146,7 @@ Forums full of people with eerily similar stories. Reddit threads that read like
 - [Environmental illness](https://en.wikipedia.org/wiki/Environmental_disease)
 - [Biotoxin](https://en.wikipedia.org/wiki/Biotoxin) exposure
 
-One phrase kept appearing: **mold illness**.
+One phrase kept appearing: **mold illness**.[^cirs-research]
 
 He clicked a link to a patient advocacy site:
 
@@ -207,3 +207,5 @@ The drowning man had just realized there's no bottom to this ocean.
 ---
 
 *Continue to [Chapter 3: Crisis Point](chapter-3-crisis-point.md) or return to [Journey Home](index.md)*
+
+[^cirs-research]: Chronic Inflammatory Response Syndrome (CIRS) was first characterized by Dr. Ritchie Shoemaker, who identified the role of biotoxins from water-damaged buildings in triggering chronic inflammatory responses in genetically susceptible individuals. See Shoemaker RC, House DE. "Sick building syndrome (SBS) and exposure to water-damaged buildings." *Neurotoxicology and Teratology* 28 (2006): 573-588.
